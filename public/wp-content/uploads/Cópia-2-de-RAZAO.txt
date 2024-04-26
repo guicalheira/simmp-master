@@ -1,0 +1,1104 @@
+
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0001
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10101001-8:0001-CAIXA                                                                         PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+     40800.87                 Saldo Inicial ..............................:                                 138,99
+13/01/11 0001  32    0 13/01    PG.JUROS S/FGTS C /GFIP                                                      16,25            155,24 C
+25/01/11 0001   2    0 25/01    PG. DESP.DE TAXI CONF.RECIBO                                                  6,00            161,24 C
+04/02/11 0001   4    0 04/02    PG. TECIDO PARA FARDAMENTO MC/CF                                             21,00            182,24 C
+07/02/11 0001  12    0 07/02    PG. BISCOITOS P/LANCHE CONF.NOTA                                             20,00            202,24 C
+11/02/11 0001  28 1881 11/02    VLR ECEBIMENTO PMVC CONVENIOS ODONTO SISTEM             3.900,00                            3.697,76 D
+11/02/11 0001 113    0 11/02    VL. DEPOSITO CREDCOOP CONF.RECIBO                                            45,00          3.652,76 D
+16/02/11 0001  24    0 16/02    VL.DEPOSITO CEF CONF.RECIBO                                                  29,00          3.623,76 D
+17/02/11 0001   8    0 17/02    PG. DESP.COPOS DESCARTAVEIS CONF.C.F                                         10,36          3.613,40 D
+17/02/11 0001  10    0 17/02    PG. DESP.AGUA MINERAL CONF.RECIBO                                             6,00          3.607,40 D
+23/02/11 0001  62    0 23/02    VL. SQUE CH.4408 P/PAGAMENTO DESPESAS                      50,00                            3.657,40 D
+23/02/11 0001  65    0 23/02    PG. REPARO DE PNEUS CONF.NF.                                                 40,00          3.617,40 D
+24/02/11 0001   6    0 24/02    PG. ESTACIONAMENTO ZONA AZUL CONF.RECIBO                                      1,40          3.616,00 D
+03/03/11 0001  19    0 03/03    PG. DESP.DE TAXI CONF.RECIBO                                                  5,00          3.611,00 D
+10/03/11 0001  82    0 10/03    VL. DIFERENCA CH.4422 P/PGAMENTO                            7,54                            3.618,54 D
+16/03/11 0001 146    0 16/03    VL. DEPOSITO CAIXA E.FEDERAL C/EXTRATO                                       10,00          3.608,54 D
+18/03/11 0001  21    0 18/03    PG. DESP.SALGADOS E REFRIGERANTES C/RECIBO                                   28,20          3.580,34 D
+31/03/11 0001  32    0 31/03    VL. TROCO CH.4415 PAGAMENTO DESP.DIVERSAS                  16,81                            3.597,15 D
+01/04/11 0001 170    0 01/04    PG. DESP.VIAGEM ZONA RURAL CONF.RECIBO                                       25,00          3.572,15 D
+06/04/11 0001 164    0 06/04    PG. DESP.LANCHES CONF.NOTA                                                    9,00          3.563,15 D
+06/04/11 0001 166    0 06/04    PG. DESP.CHA CONF.NOTA                                                        3,49          3.559,66 D
+07/04/11 0001 160    0 07/04    PG. DESP.LAVAGEM DE VEICULO CONF.NF                                          15,00          3.544,66 D
+07/04/11 0001 178    0 07/04    PG. LANCHES CURSO FORM.SINDICAL C/NOTA                                       50,91          3.493,75 D
+11/04/11 0001 168    0 11/04    PG. DESP.DE CORREIO CONF.NOTA                                                15,40          3.478,35 D
+11/04/11 0001 172    0 11/04    PG. DESP.COMBUSTIVEL CONF.CF                                                120,00          3.358,35 D
+15/04/11 0001 154    0 15/04    VL. DEPOSITO CEF CONF.EXTRATO                                                18,00          3.340,35 D
+18/04/11 0001 162    0 18/04    PG. DESP.AGUA MINIERAL CONF.NF                                               12,00          3.328,35 D
+18/04/11 0001 174    0 18/04    PG. FAXINA CURSO FORM.SINDICAL C/RECIBO                                      35,00          3.293,35 D
+18/04/11 0001 176    0 18/04    PG. LANCHES CURSO FORM.SINDICAL C/NOTA                                       58,00          3.235,35 D
+19/04/11 0001 180    0 19/04    PG. 2 DIARIAS PALESTRANTE CURSO F.SINDICAL                                  100,00          3.135,35 D
+30/04/11 0001 184    0 30/04    PG. CONTR.SINDICAL CONF.GR                                                   52,50          3.082,85 D
+03/05/11 0001  39    0 03/05    PG. PILHAS P/GRAVADOR CONF.C.FISCAL                                           4,89          3.077,96 D
+03/05/11 0001  41    0 03/05    PG. BISCOITOS P/LANCHES CONF.NOTA                                            10,00          3.067,96 D
+03/05/11 0001  73    0 03/05    PG. MARACUJA/ACUCAR MOBILIZACAO 03/05                                        20,44          3.047,52 D
+04/05/11 0001  67    0 04/05    PG. BISCOITOS-CURSO FORM.PROFESSORES C/CF                                    16,00          3.031,52 D
+05/05/11 0001  53    0 05/05    PG. DOACAO CRECHE P.MENEZES-IGUA                                             30,75          3.000,77 D
+09/05/11 0001  75    0 09/05    PG. DESP.APITOS-CAMP.SALARIAL CONF.CF                                        16,45          2.984,32 D
+09/05/11 0001  77    0 09/05    PG. DESP.LANCHES-COMISSAO NEGOCIACAO C.SAL.                                  12,00          2.972,32 D
+09/05/11 0001  90    0 09/05    VL.TROCO CH.4523  CONF.UNIDONTO                            91,00                            3.063,32 D
+11/05/11 0001  26    0 11/05    VL.SAQUE CH 4436 PGTO.DE DESPESAS                         200,00                            3.263,32 D
+12/05/11 0001  49    0 12/05    PG. DESP.REFEICOES CONF.NOTA                                                 60,00          3.203,32 D
+16/05/11 0001  13    0 16/05     VL.DEPOSITO CEF CONF.RECIBO                                                 24,00          3.179,32 D
+16/05/11 0001  47    0 16/05    PG. DESP.LANCHES CONF.C.FISCAL                                                4,50          3.174,82 D
+16/05/11 0001  61    0 16/05    PG. DESP.COMBUSTIVEL CONF.C.FISCAL                                           40,00          3.134,82 D
+18/05/11 0001  16    0 18/05    RECEBIMENTO SINDSAUDE PARTICIP.CURSO F.SINDIC             250,00                            3.384,82 D
+18/05/11 0001  63    0 18/05    PG. LANCHE-CURSO FORM.SINDICAL C/NOTA                                        45,00          3.339,82 D
+18/05/11 0001  65    0 18/05    PG. LANCHE-CURSO FORM.PROFESSORES C/CF                                       26,62          3.313,20 D
+19/05/11 0001  51    0 19/05    PG. BATERIA P/APARELHOS CONF.CF                                               4,89          3.308,31 D
+19/05/11 0001  57    0 19/05    PG. ESTACIONAMENTO ZONA AZUL C/RECIBO                                         1,40          3.306,91 D
+20/05/11 0001  30    0 20/05    VL.SAQUE P/ PGTO.DESP.FORUM DE PAIS-CH.4551             1.600,00                            4.906,91 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0002
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10101001-8:0001-CAIXA                                                                         PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+20/05/11 0001  33    0 20/05    PG. DESP.DIVERSAS-FORUM DE PAIS C/NOTAS                                   1.607,75          3.299,16 D
+20/05/11 0001  59    0 20/05    PG. DESP.COMBUSTIVEL CONF.C.FISCAL                                           15,28          3.283,88 D
+21/05/11 0001  69    0 21/05    PG. LIMPEZA ESPACO UFBA-FORUM DOS PAIS                                       35,00          3.248,88 D
+21/05/11 0001  71    0 21/05    PG. DESP.PRATOS-FORUM DOS PAIS C/CF                                          39,90          3.208,98 D
+23/05/11 0001  43    0 23/05    PG. DESP.DE CAFE CONF.C.FISCAL                                                4,98          3.204,00 D
+24/05/11 0001  45    0 24/05    PG. DESP.LANCHES CONF.C.FISCAL                                                3,84          3.200,16 D
+26/05/11 0001  55    0 26/05    PG. SERINGA P/RECARGA DE CARTUCHOS C/CF                                       4,00          3.196,16 D
+30/05/11 0001  37    0 30/05    PG. ARLETE ROCHA DEVOLUCAO DESC.SHIATSU                                      20,00          3.176,16 D
+02/06/11 0001  68    0 02/06    PG. AGUA MINERAL CAMP.NO PRADOSO C/CF                                        12,60          3.163,56 D
+03/06/11 0001  10    0 03/06     VL.SAQUE P/PAGAMENTO COHF.CH.4595                        200,00                            3.363,56 D
+03/06/11 0001  34    0 03/06    PG. DESP.LANCHES CONF.NOTA                                                   14,45          3.349,11 D
+04/06/11 0001  28    0 04/06    PG.LAVAGEM  DE V EICULO CONF.NOTA                                            15,00          3.334,11 D
+07/06/11 0001  40    0 07/06    PG. DESP.DE LANCHES CONF.NOTA                                                 7,72          3.326,39 D
+08/06/11 0001  13    0 08/06     VL.SAQUE P/PAGAMENTO CONF.CH.4596                        200,00                            3.526,39 D
+09/06/11 0001  50    0 09/06    PG. DESP.COMBUSTIVEIS CONF.RECIBO                                            50,00          3.476,39 D
+09/06/11 0001  72    0 09/06    PG. 38 QUENTINHAS PARALIZACAO CAMP.SALARIAL                                 190,00          3.286,39 D
+10/06/11 0001  48    0 10/06    PG. DESP.COMBUSTIVEIS CONF.CF                                                25,00          3.261,39 D
+10/06/11 0001  52    0 10/06    PG. BISCOITO FORRO DO SIMMP CONF.NOTA                                       202,00          3.059,39 D
+10/06/11 0001  54    0 10/06    PG. BISCOITO DE DOCE FORRO SIMMP CONF.NOTA                                   42,00          3.017,39 D
+11/06/11 0001  30    0 11/06    PG.LAVAGEM  DE VEICULOS CONF.NOTA                                            35,00          2.982,39 D
+14/06/11 0001  15    0 14/06     VL.SAQUE P/PAGAMENTO CONF.CH.4620                      3.500,00                            6.482,39 D
+14/06/11 0001  64    0 14/06    PG. DESP.MOTO/SOM CAMP.SALARIAL C/RECIBO                                    480,00          6.002,39 D
+14/06/11 0001  70    0 14/06    PG. DESP.DIVERSAS PARALIZACAO NA P.MUNICIPAL                                223,52          5.778,87 D
+15/06/11 0001  32    0 15/06    PG. REVELACAO DE FOTOGRAFIAS CONF.NOTA                                       43,00          5.735,87 D
+15/06/11 0001  36    0 15/06    PG. DESP.LANCHES CONF.NOTA                                                   13,40          5.722,47 D
+15/06/11 0001  42    0 15/06    PG. DESP.COLA E TINTA CONF.CF                                                11,40          5.711,07 D
+16/06/11 0001  58    0 16/06    PG. BOLO E TORTAS S.JOAO DO SIMMP C/RECIBO                                  450,00          5.261,07 D
+16/06/11 0001  60    0 16/06    PG. PIPOCAS E AMENDOIMS FOORO SIMMP C/RECIBO                                400,00          4.861,07 D
+16/06/11 0001  62    0 16/06    PG. PAMONHAS P/FOORO SIMMP C/RECIBO                                         200,00          4.661,07 D
+17/06/11 0001  38    0 17/06    PG. DESP.DE REFEICOES CONF.NOTA                                              70,00          4.591,07 D
+17/06/11 0001  46    0 17/06    PG. COPOS DESCARTAVEIS ASSIMBL.DIOCESANO                                      9,56          4.581,51 D
+17/06/11 0001  56    0 17/06    PG. COLA/PINCEL ORNAMENTACAO CLUBE CONF.NOTA                                 37,00          4.544,51 D
+20/06/11 0001  44    0 20/06    PG. DESP.DE CORREIO CONF.NOTA                                                33,95          4.510,56 D
+20/06/11 0001  66    0 20/06    PG. APITOS PARALISACAO CAMP.SALARIAL C/RECIBO                                17,50          4.493,06 D
+07/07/11 0001  32    0 07/07    PG. DESP.DE LANCHES CONF.NOTAS                                                9,04          4.484,02 D
+08/07/11 0001  36    0 08/07    PG. DESP.LANCHES-MOTORISTA EM SERVICO                                        10,80          4.473,22 D
+08/07/11 0001  38    0 08/07    PG. DESP.FOTOCOPIAS CONF.NOTA                                                 4,00          4.469,22 D
+11/07/11 0001  30    0 11/07    PG. DESP.DE GAS CONF.RECIBO                                                  38,00          4.431,22 D
+11/07/11 0001  40    0 11/07    PG. DESP.FOTOCOPIAS CONF.NOTA                                                 1,30          4.429,92 D
+12/07/11 0001  44    0 12/07    PG. DESP.DE CORREIO CONF.NOTA                                                43,00          4.386,92 D
+13/07/11 0001  58    0 13/07    PG. MAIKO HENRIQUE SANTOS DESP.FESTA S.JOAO                                  60,00          4.326,92 D
+15/07/11 0001  34    0 15/07    PG. DESP.LANCHES CONF.NOTAS-SERV.INTERNO                                     30,34          4.296,58 D
+26/07/11 0001  26    0 26/07    PG.DESP.DE  ACUCAR CONF.CF                                                    2,70          4.293,88 D
+26/07/11 0001  50    0 26/07    PG. DESP.CHA-REUNIAO C/REPRES.SINDICAL                                        7,00          4.286,88 D
+27/07/11 0001  28    0 27/07    PG.DESP.DE  LANCHES CONF.NOTA                                                 9,20          4.277,68 D
+27/07/11 0001  46    0 27/07    PG. DESP.DE TAXI CONF.RECIBO                                                 11,00          4.266,68 D
+27/07/11 0001  48    0 27/07    PG. REFEICOES-CURSO FORM.PROFESSORES C/NF                                    47,50          4.219,18 D
+27/07/11 0001  52    0 27/07    PG. DESP.LANCHES-CURSO FORM.SINDICAL C/CF                                    30,40          4.188,78 D
+28/07/11 0001  20    0 28/07    PG.BISCOITO P/LANCHES CONF.NOTA                                              30,00          4.158,78 D
+28/07/11 0001  22    0 28/07    PG.DESP.DE  REFEICOES CONF.NOTA                                              44,00          4.114,78 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0003
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10101001-8:0001-CAIXA                                                                         PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+28/07/11 0001  24    0 28/07    PG.DESP.DE  LANCHES CONF.NOTA                                                19,00          4.095,78 D
+28/07/11 0001  55    0 28/07    VL. SAQUE PGTO.DE DESPESAS CONF.CH.4709                   100,00                            4.195,78 D
+31/07/11 0001  42    0 31/07    PG. 4 TUBOS DE COLA CONF.NOTA                                                60,00          4.135,78 D
+02/08/11 0001  18    0 02/08    PG. LAVAGEM VEICULO CONF.NOTA                                                15,00          4.120,78 D
+08/08/11 0001  32    0 08/08    PG. DESP.DE CORREIO COMF.NOTA                                                16,70          4.104,08 D
+08/08/11 0001  37    0 08/08    PG.DEPOSITOS FGTS JUL/11 CONF.GFIP-JUROS                                     11,27          4.092,81 D
+17/08/11 0001  20    0 17/08    PG. LAVAGEM VEICULO CONF.NOTA                                                20,00          4.072,81 D
+18/08/11 0001  30    0 18/08    PG. MANTEIGA P/LANCHES CONF.CF                                                2,43          4.070,38 D
+19/08/11 0001  42    0 19/08    PG.DONATIVOS- PROF.ELAINE MARIA OLIVEIRA                                     20,00          4.050,38 D
+29/08/11 0001  26    0 29/08    PG. DESP.LANCHES-REUNIAO DA DIRETORIA C/CF                                   17,88          4.032,50 D
+29/08/11 0001  28    0 29/08    PG. DESP.COLA PARA SIMMP C/CF                                                20,19          4.012,31 D
+30/08/11 0001  22    0 30/08    PG. ALINHAMENTO/BALANCEMANETO DE RODAS C/NF                                  50,00          3.962,31 D
+30/08/11 0001  24    0 30/08    PG. DESP.COPOS DESCARTAVEIS CONF.CF                                          11,28          3.951,03 D
+30/08/11 0001  34    0 30/08    PG. CONSERTO DE PNEUS CONF.NOTA                                              10,00          3.941,03 D
+31/08/11 0001  16    0 31/08    PG. H.EXTRAS A JOSE ADELMO CONF.FL.PGTO.                                    195,77          3.745,26 D
+01/09/11 0001  34    0 01/09    PG. LAVAGEM VEICULO GOL, CONF.NOTA                                           15,00          3.730,26 D
+02/09/11 0001  44    0 02/09    PG. DESP.COMBISTIVEL CONF.CF                                                 30,00          3.700,26 D
+13/09/11 0001  36    0 13/09    PG. PAO P/LANCHE FUNCIONARIOS C/CF                                            2,00          3.698,26 D
+19/09/11 0001  46    0 19/09    PG. CONSERTO DE PNEU CONF.NOTA                                                5,00          3.693,26 D
+20/09/11 0001  16    0 20/09    VL.CHEQUE 4 793 CREDCOOP P/PGTO.DESPESAS                2.000,00                            5.693,26 D
+20/09/11 0001  32    0 20/09    PG. MATR.PINTURA E MATR.CONTRUCAO CONF.CF                                 1.329,95          4.363,31 D
+22/09/11 0001  30    0 22/09    PG. MATR.PINTURA E MATR.CONTRUCAO CONF.CF                                   200,00          4.163,31 D
+22/09/11 0001  40    0 22/09    VL. DOACAO P/FESTA PADROEIRA CONF.RECIBO                                     30,00          4.133,31 D
+23/09/11 0001  19    0 23/09    PG.TRANP.DE AREIA CONF.RECIBO                                                10,00          4.123,31 D
+23/09/11 0001  42    0 23/09    VL. DOACAO P/ESCOLA IARA CAIRO C/RECIBO                                      10,00          4.113,31 D
+26/09/11 0001  21    0 26/09    PG. MASSA CORRIDA P/PINTURA CONF.CF                                          40,00          4.073,31 D
+26/09/11 0001  23    0 26/09    PG. CORANTE P/PINTURA CONF.CF                                                18,00          4.055,31 D
+29/09/11 0001  38    0 29/09    PG. DESP.REFEICOES CONF.N.FISCAL                                             57,20          3.998,11 D
+29/09/11 0001  48    0 29/09    PG. REFRIGERANTES CURSO FORM.SINDICAL C/CF                                    8,97          3.989,14 D
+29/09/11 0001  50    0 29/09    PG. MATR.P/USO CURSO FORM.SINDICAL C/CF                                       7,34          3.981,80 D
+29/09/11 0001  52    0 29/09    PG. FRUTAS P/SUCO CURSO FORM.SINDICAL C/CF                                    5,45          3.976,35 D
+29/09/11 0001  54    0 29/09    PG. BISCOITOS P/CURSO FORM.SINDICAL C/NOTA                                   63,00          3.913,35 D
+30/09/11 0001  14    0 30/09    VL.CHEQUE 4 808 CREDCOOP P/PGTO.DESPESAS                  500,00                            4.413,35 D
+30/09/11 0001  26    0 30/09    PG. BATERIA P/EQUIP.DESOM/COPOS DESCART.C/CF                                 16,31          4.397,04 D
+30/09/11 0001  28    0 30/09    PG. BISNAGA P/PINTURA CONF.CF                                                48,00          4.349,04 D
+30/09/11 0001  90    0 30/09    PG. VALE TRANSPORTE CONF.RECIBO                                             168,00          4.181,04 D
+04/10/11 0001 147    0 04/10    PG.LAVAGEM DE VEICULO C /RECIBO                                              15,00          4.166,04 D
+10/10/11 0001 149    0 10/10    PG.MATR.DE LIMPEZA CONF .CF                                                   7,40          4.158,64 D
+10/10/11 0001 151    0 10/10    PG.MATR.DE CONTRUCAO P/ REFORMA SEDE                                        105,00          4.053,64 D
+11/10/11 0001 153    0 11/10    PG.MATR.DE CONTRUCAO P/ REFORMA SEDE                                          2,00          4.051,64 D
+13/10/11 0001 155    0 13/10    PG. DESP.LAVAGEM DE VEICULO CONF.NOTA                                        20,00          4.031,64 D
+14/10/11 0001  14    0 14/10    VL. SAQUE CH.4826 P/PAGAMENTO DESPESAS                  1.500,00                            5.531,64 D
+14/10/11 0001  84    0 14/10    PG. JUROS S/MATR.DE ESCRITORIO C/BOLETO                                       0,23          5.531,41 D
+14/10/11 0001 157    0 14/10    PG. MATR.P/DIA DO PROFESSOR CONF.NF                                         407,90          5.123,51 D
+14/10/11 0001 167    0 14/10    PG. FRUTAS P/FESTA DO PROFESSOR C/RECIBO                                    160,00          4.963,51 D
+14/10/11 0001 171    0 14/10    PG. MATR.ESCRITORIO PAPELARIA SUZE C/CF                                      11,35          4.952,16 D
+14/10/11 0001 173    0 14/10    PG. DESP.COMBUSTIVEL CONF.CF                                                 20,00          4.932,16 D
+14/10/11 0001 177    0 14/10    PG. DESP.DE LANCHES CONF.CF                                                   8,10          4.924,06 D
+15/10/11 0001 159    0 15/10    PG. SUPERM.S.GERALDO MATR.P/DIA DO PROFESSOR                                 39,90          4.884,16 D
+15/10/11 0001 161    0 15/10    PG. FATIAMENTO PRESUTO P/DIA DO PROFESSOR                                    10,00          4.874,16 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0004
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10101001-8:0001-CAIXA                                                                         PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+15/10/11 0001 163    0 15/10    PG. MATR.CONTR.EDGAR P/REFORMA SEDE C/NF                                     30,00          4.844,16 D
+15/10/11 0001 165    0 15/10    PG. SERV.GARCONS DIA DO PROFESSOR C/RECIBO                                1.000,00          3.844,16 D
+15/10/11 0001 169    0 15/10    PG. GELO P/FESTA DO PROFESSOR C/NOTAS                                        50,00          3.794,16 D
+17/10/11 0001 179    0 17/10    PG. LAVAGEM DE VEICULO CONF.NOTA                                             15,00          3.779,16 D
+18/10/11 0001 175    0 18/10    PG. DESP.COMBUSTIVEL CONF.CF                                                 20,00          3.759,16 D
+21/10/11 0001 124    0 21/10    VL. SAQUE CH.4848 CREDCOOP P/PGTO.DESPESAS                250,00                            4.009,16 D
+21/10/11 0001 181    0 21/10    PG. MATR.CONSTRUCAO P/REFORMA SEDE C/CF                                      30,00          3.979,16 D
+21/10/11 0001 183    0 21/10    PG. BISCOITO P/LANCHES-COMISSAO ELEITORAL                                     7,00          3.972,16 D
+24/10/11 0001 185    0 24/10    PG. LANCHES COMISSAO ELEITORAL CONF.CF                                       16,12          3.956,04 D
+27/10/11 0001 187    0 27/10    PG. LANCHES COMISSAO ELEITORAL CONF.CF                                        3,85          3.952,19 D
+27/10/11 0001 189    0 27/10    PG. DESP.COMBUSTIVEL CONF.CF                                                 20,00          3.932,19 D
+28/10/11 0001 191    0 28/10    PG. DESP.RETIRADA DE ENTULHO SEDE C/RECIBO                                   14,00          3.918,19 D
+28/10/11 0001 193    0 28/10    PG. MARMITEX P/FUNCIONARIO A SERVICO C/CF                                    36,00          3.882,19 D
+28/10/11 0001 195    0 28/10    PG. CONTR.ESCOLA MARIA LEAL-DIA DO PROFESSOR                                 15,00          3.867,19 D
+28/10/11 0001 197    0 28/10    PG. SERV.PINTURA SEDE CONF.RECIBO                                            50,00          3.817,19 D
+31/10/11 0001 199    0 31/10    PG. DESP.LANCHE P/COMISSAO ELEITORAL C/NOTAS                                 21,75          3.795,44 D
+01/11/11 0001   1    0 01/11    RECEBIMENTO MENSALIDADE SANDRA LIMA PEREIRA                 7,10                            3.802,54 D
+03/11/11 0001  55    0 03/11    PG. CARTUCHOS P/IMPRESSORA CONF.CF                                           18,90          3.783,64 D
+03/11/11 0001 103    0 03/11    VL. DESCONTO PAGAMENTO DUPLIC.FEV/2011                                    3.900,00            116,36 C
+04/11/11 0001  36    0 04/11    PG. DESP.AGUA MINERAL C/NOTA                                                  7,00            123,36 C
+04/11/11 0001  47    0 04/11    PG. DESP.CAFE/ACUCAR CONF.CF                                                  5,05            128,41 C
+04/11/11 0001  51    0 04/11    PG. ACUCAR P/CAFE CONF.CF                                                     4,36            132,77 C
+04/11/11 0001  53    0 04/11    PG. REFRIGERANTES CONF.CF-P.ELEITORAL                                        19,71            152,48 C
+04/11/11 0001  75    0 04/11    PG. DESP.LANCHES PROCESSO ELEITORIAL C/CF                                     6,54            159,02 C
+04/11/11 0001  77    0 04/11    PG. BISCOITOS P/PROCESSO ELEITORIAL C/NOTA                                   75,00            234,02 C
+11/11/11 0001  41    0 11/11    PG. DESP.ACUCAR P/CAFE C/CF                                                   2,18            236,20 C
+11/11/11 0001  73    0 11/11    PG. REFRIGERANTES PROCESSO ELEITORIAL C/NOTA                                 33,00            269,20 C
+16/11/11 0001  65    0 16/11    PG. DESP.COMBUSTIVEL CONF.CF                                                 10,00            279,20 C
+16/11/11 0001  67    0 16/11    PG. DESP.COMBUSTIVEL CONF.CF                                                 30,00            309,20 C
+18/11/11 0001  18    0 18/11    VL. CH.4761 P/PAGAMENTO DE DESPESAS                       750,00                              440,80 D
+21/11/11 0001  32    0 21/11    PG. REVISAO VEICULO GOL CONF.N.FISCAIS                                      331,50            109,30 D
+21/11/11 0001  49    0 21/11    PG. DESP.COMBUSTIVEL CONF.CF                                                 50,02             59,28 D
+21/11/11 0001  59    0 21/11    PG. DESP.DE TELEFONE CONF.RECIBO                                             24,90             34,38 D
+22/11/11 0001  45    0 22/11    PG. DESP.CAFE C/CF                                                            5,00             29,38 D
+22/11/11 0001  63    0 22/11    PG. DESP.COMBUSTIVEL CONF.CF                                                 50,00             20,62 C
+22/11/11 0001  91    0 22/11    PG. CONVENIO ODONTOSISTEM C/RECIBO                                          472,50            493,12 C
+23/11/11 0001  25    0 23/11    PG. SERV.MECANICOS VEICULO TOWNER C/NF                                       20,00            513,12 C
+23/11/11 0001  28    0 23/11    PG. VIDRO P/VEICULO TOUNER CONF.N.FISCAL                                     80,00            593,12 C
+23/11/11 0001  30    0 23/11    PG. COPIAS DE CHAVES SEDE CONF.NOTA                                           8,00            601,12 C
+24/11/11 0001  43    0 24/11    PG. DESP.ACUCAR P/CAFE C/CF                                                   2,50            603,62 C
+25/11/11 0001  34    0 25/11    PG. DESP.LANCHES CONF.C.FISCAL                                                8,09            611,71 C
+28/11/11 0001  16    0 28/11    VL.CHEQUE N ø.4780 PGTO.DE DESPESAS                     1.500,00                              888,29 D
+28/11/11 0001  39    0 28/11    PG. DESP.CORREIO TADEU CINCURA C/CF                                         103,40            784,89 D
+28/11/11 0001  57    0 28/11    PG. MATR.DE ESCRITORIO CONF.N.FISCAL                                         34,30            750,59 D
+28/11/11 0001  61    0 28/11    PG. DESP.DE TAXI CONF.RECIBO                                                  5,00            745,59 D
+28/11/11 0001  69    0 28/11    PG. PARTICIP.SR.CESAR CONF.NACIONAL C/RECIBO                                200,00            545,59 D
+28/11/11 0001  71    0 28/11    PG. DESP.VIAGEM APOIO SIND.PROFESORES ITUACU                                 50,00            495,59 D
+28/11/11 0001  83    0 28/11    PG.CONVENIO ATEND ODONTO C/DEPOSITO                                          94,00            401,59 D
+29/11/11 0001  22    0 29/11    PG. MATR.P/LANCHES E LIMPEZA C/C.FISCAL                                      20,75            380,84 D
+29/11/11 0001  26    0 29/11    PG. COLOCACAO PERSIANAS SEDE CONF.RECIBO                                    100,00            280,84 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0005
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10101001-8:0001-CAIXA                                                                         PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+29/11/11 0001 160    0 29/11    PG. DESP.DE COMBUSTIVEL CONF.CF                                              20,00            260,84 D
+02/12/11 0001  38    0 02/12    PG. LAVAGEM VEICULO GOL CONF.NOTA                                            15,00            245,84 D
+02/12/11 0001  48    0 02/12    PG. DESP.LANCHES CONF.CF                                                      3,96            241,88 D
+02/12/11 0001  72    0 02/12    PG.DESP.DE COMBUSTIVEL C/C FISCAL                                            20,00            221,88 D
+05/12/11 0001  40    0 05/12    PG. DIARIAS DE FAXINA CONF.RECIBO                                           140,00             81,88 D
+05/12/11 0001  52    0 05/12    PG. ENVELOPES P/ESCRITORIO CONF.CF                                           10,00             71,88 D
+05/12/11 0001  54    0 05/12    PG. RECARGA CARTUCHOS CONF.CF                                                24,90             46,98 D
+06/12/11 0001  50    0 06/12    PG. DESP.AGUA MINERAL CONF.CF                                                 6,00             40,98 D
+06/12/11 0001  66    0 06/12    PG.TINTA P/IMPRESSORA CONF .N.FISCAL                                         90,00             49,02 C
+07/12/11 0001  24    0 07/12    PG.DEPOSITOS FGTS NOV/2011 C/GFIP                                           204,12            253,14 C
+07/12/11 0001  34    0 07/12    PG. ACESSORIOS P/BANHEIRO CONF.NOTA                                          17,00            270,14 C
+07/12/11 0001  36    0 07/12    PG. VERNIZ P/PINTURA SEDE CONF.NOTA                                           6,00            276,14 C
+07/12/11 0001  60    0 07/12    PG.DESP.TELEFONE A TELEMAR C/RECIBO                                         262,70            538,84 C
+07/12/11 0001  62    0 07/12    PG.DESP.TELEFONE A TELEMAR C/RECIBO                                         233,91            772,75 C
+07/12/11 0001  85    0 07/12    VL. SAQUE P/DESPESAS CONF.CH.4869                       1.250,00                              477,25 D
+07/12/11 0001 107    0 07/12    PG. MENSALIDADE DIEESE C/RECIBO                                             431,53             45,72 D
+08/12/11 0001  70    0 08/12    PG.DESP.DE COMBUSTIVEL C/C FISCAL                                            50,00              4,28 C
+09/12/11 0001  56    0 09/12    PG. DESP.COPIAS/ENCADERNACOES CONF.NOTAS                                     39,96             44,24 C
+09/12/11 0001  68    0 09/12    PG.DESP.DE COMBUSTIVEL C/C FISCAL                                            50,00             94,24 C
+13/12/11 0001  20    0 13/12    PG.CONTR.INSS NOV/11 CONF.GPS                                             1.010,63          1.104,87 C
+13/12/11 0001  22    0 13/12    PG.CONTR.INSS S/H.EXTRAS NOV/11 CONF.GPS                                     32,44          1.137,31 C
+13/12/11 0001  42    0 13/12    PG. DIARIAS DE FAXINA CONF.RECIBO                                            70,00          1.207,31 C
+13/12/11 0001  46    0 13/12    PG. MATR.P/DECORACAO NATALINA C/CF                                           12,89          1.220,20 C
+13/12/11 0001  58    0 13/12    PG.DESP.AGUA A EMBASA SA  C/RECIBO                                           81,54          1.301,74 C
+13/12/11 0001  64    0 13/12    PG.MATR.DE ESCRITORIO CONF .N.FISCAL                                        100,80          1.402,54 C
+13/12/11 0001  83    0 13/12    VL. SAQUE P/DESPESAS CONF.CH.4881                       1.000,00                              402,54 C
+13/12/11 0001  87    0 13/12    VL. SAQUE P/DESPESAS CONF.CH.2367 CEF                   1.200,00                              797,46 D
+14/12/11 0001  27    0 14/12    PG.FGTS/JUROS NOV /11 S/H.EXTRAS C/GFIP                                       8,10            789,36 D
+14/12/11 0001  32    0 14/12    PG. HONORARIOS CONTABEIS CONF.RECIBO                                        550,72            238,64 D
+14/12/11 0001  44    0 14/12    PG. LAVAGEM DE VEICULOS CONF.NOTA                                            33,00            205,64 D
+14/12/11 0001  74    0 14/12    PG. DESP.SEGURANCA TECNOGUARDE C/RECIBO                                     118,37             87,27 D
+14/12/11 0001  76    0 14/12    PG. DESP.SEGURANCA TECNOGUARDE C/RECIBO                                     115,64             28,37 C
+14/12/11 0001  78    0 14/12    PG. APARELHO DE TELEFONE CONF.NOTA                                           70,00             98,37 C
+15/12/11 0001  29    0 15/12    SUBSTIT.PROF.CESA R NOLASCO CONF.RECIBO                                      80,00            178,37 C
+15/12/11 0001  80    0 15/12    PG. DESP.LANCHES PROCESSO ELEITORAL C/CF                                     16,59            194,96 C
+15/12/11 0001 120    0 15/12    VL. SAQUE P/PAGAMENTO DESPESAS-CH.4889                    500,00                              305,04 D
+18/12/11 0001  81    0 18/12    VL. SAQUE P/DESPESAS CONF.CH.4777                         100,00                              405,04 D
+                                                                               ----------------- -----------------
+                              Totais .....................................:            20.672,45         20.128,42
+========================================================================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+    995893.98                 Saldo Inicial ..............................:             1.587,38
+02/01/11 0001  23    0 02/01    PG. HONORARIO TADEU CINCURA C/RECIBO-CH.4373                              1.020,00            567,38 D
+08/01/11 0001  34    0 08/01    PG.SERVICO DE REC UPERACAO GOL C/NF-CH.4359                                 600,00             32,62 C
+13/01/11 0001  19    0 13/01    PG. CONVENIO SHIATSU C/RECIBO-CH.4367                                       210,00            242,62 C
+13/01/11 0001  27    0 13/01    PG.CONTR.INSS DEZ/12 CONF.GPS-CH.4365                                       945,65          1.188,27 C
+13/01/11 0001  31    0 13/01    PG.HONORARIOS CON TABEIS/FGTS-CH.4366                                       804,52          1.992,79 C
+13/01/11 0001  38    0 13/01    PG.DESP.AGUA, LUZ E TELE FONE-CH.4364                                       873,59          2.866,38 C
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0006
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+13/01/11 0001  52    0 13/01    PG. DESP.SEGURANCA TECNOGRADE C/NOTA-CH.4363                                194,00          3.060,38 C
+13/01/11 0001  59    0 13/01    VL. TRANSF.APLICACAO C/EXTRATO CREDCOOP                 1.500,00                            1.560,38 C
+17/01/11 0001   3    0 17/01    VL.DEPOSITO PMVC CONVENIOS DIVERSOS                    20.434,89                           18.874,51 D
+17/01/11 0001   4    0 17/01    VL.DEPOSITO PMVC CONVENIOS DIVERSOS                     4.329,52                           23.204,03 D
+25/01/11 0001  25    0 25/01    PG. PG.SUBST.PROF.MARIA CELIA-CH.4357                                        40,00         23.164,03 D
+25/01/11 0001  56    0 25/01    PG. AQUISICAO COTAS CONF.EXTRATO CREDCOOP                                    30,00         23.134,03 D
+26/01/11 0001   5    0 26/01    VL.DEPOSITO UNIMED REF.COMISSOES                        2.343,00                           25.477,03 D
+31/01/11 0001  13    0 31/01    PG. CONVENIO ORALE C/RECIBO-CH.4377                                       6.826,70         18.650,33 D
+31/01/11 0001  15    0 31/01    PG. CONVENIO ODONTO SISTEM C/RECIBO-CH.4372                               4.131,00         14.519,33 D
+31/01/11 0001  17    0 31/01    PG. CONVENIO SHIATSU C/RECIBO-CH.4374                                       210,00         14.309,33 D
+31/01/11 0001  21    0 31/01    PG. CONVENIO CLUBE S.CONQUISTA C/REC-CH.4375                              1.260,00         13.049,33 D
+31/01/11 0001  40    0 31/01    PG.ENEGIA ELETRICA · COELBA -CH.4368                                         46,77         13.002,56 D
+31/01/11 0001  42    0 31/01    PG.RAMALHETES FUNEBRES CONF .NF-CH.4378                                      90,00         12.912,56 D
+31/01/11 0001  44    0 31/01    PG. DESP.MATR.ESCRITORIO CONF.NF-CH.4380                                    123,65         12.788,91 D
+31/01/11 0001  46    0 31/01    PG. MATR/SERVICO INFORMATICA CONF.NF-CH.4379                                230,00         12.558,91 D
+31/01/11 0001  48    0 31/01    PG. DESP.CONFRATERNIZACAO C/NF.NF-CH.4371                                   118,28         12.440,63 D
+31/01/11 0001  50    0 31/01    PG. DESP.SEGURANCA TECNOGRADE C/NOTA-CH.4370                                107,08         12.333,55 D
+31/01/11 0001  54    0 31/01    PG. MENSALIDADES DIEESE CONF.RECIBO-CH.4369                                 802,84         11.530,71 D
+31/01/11 0001  58    0 31/01    PG. JUROS S/CH.ESPECIAL C/EXTRATO CREDCOOP                                    3,60         11.527,11 D
+01/02/11 0001  36    0 01/02    PG. CONVENIO UNIDONTO CONF.RECIBO-CH.4376                                 1.844,37          9.682,74 D
+01/02/11 0001  38    0 01/02    PG. CONVENIO SHIATSU C/RECIBO-CH.4396                                       210,00          9.472,74 D
+01/02/11 0001  69    0 01/02    PG. DIARIAS DE LIMPESA CONF.RECIBO-CH.4381                                  210,00          9.262,74 D
+01/02/11 0001  79    0 01/02    PG. DESP.FOTOCOPIAS CONF.NF-CH.4382                                         156,46          9.106,28 D
+01/02/11 0001 101    0 01/02    PG. DESP.COMBUSTIVEL CONF.NF.-CH.4383                                       429,00          8.677,28 D
+03/02/11 0001  67    0 03/02    PG. PRODUTOS DE LIMPESA CONF.CF.-CH.4384                                    164,40          8.512,88 D
+03/02/11 0001  97    0 03/02    PG. DESP.VALE TRANSPORTE-ALINE-CH.4385                                      152,00          8.360,88 D
+07/02/11 0001   1    0 07/02    RECEBIMENTO ADIANT.VENDA VEICULO-KOMBI                  4.000,00                           12.360,88 D
+08/02/11 0001  57    0 08/02    PG. ASS.JORNAL A TARDE C/RECIBO-CH.4387                                     104,75         12.256,13 D
+08/02/11 0001  73    0 08/02    PG. DESP.MATR.DE LIMPEZA C/CF-CH.4388                                       135,20         12.120,93 D
+09/02/11 0001  30    0 09/02    PG.CONTR.INSS JAN/10 CONF.GPS-CH.4393                                     1.264,45         10.856,48 D
+09/02/11 0001  34    0 09/02    PG. FGTS E CONTABILIDADE C/RECIBOS-CH.4392                                  816,97         10.039,51 D
+09/02/11 0001  77    0 09/02    PG. REFEICOES ADVOGADO/VICE PRESID.-CH.4389                                  37,40         10.002,11 D
+09/02/11 0001  83    0 09/02    PG.DESP.TELEFONE A TELEMAR -CH.4391                                         459,47          9.542,64 D
+09/02/11 0001  85    0 09/02    PG.DESP.AGUA A EMBASA SA -CH.4390                                            64,08          9.478,56 D
+10/02/11 0001  27    0 10/02    VL. DEPOSITO PMVC CONVENIOS DIVERSOS                    5.620,52                           15.099,08 D
+11/02/11 0001  89    0 11/02    PG.PRESENTE CASAMENTO FUNC. ALINE-CH.4394                                   300,00         14.799,08 D
+11/02/11 0001 112    0 11/02    VL. DEPOSITO CREDCOOP CONF.RECIBO                          45,00                           14.844,08 D
+15/02/11 0001  13    0 15/02    VL. DEPOSITO PMVC CONVENIOS DIVERSOS                   20.876,50                           35.720,58 D
+16/02/11 0001  40    0 16/02    PG. CONVENIO CLUBE SOC.CONQUISTA-CH.4397                                  1.380,00         34.340,58 D
+16/02/11 0001  87    0 16/02    PG.ENEGIA ELETRICA · COELBA -CH.4395                                         39,15         34.301,43 D
+16/02/11 0001  95    0 16/02    PG. DESP.DE CORREIO CONF.NOTA-CH.4399                                        36,70         34.264,73 D
+16/02/11 0001 103    0 16/02    PG. AQUISICAO PNEUS CONF.NF.-CH.4400                                        359,80         33.904,93 D
+16/02/11 0001 109    0 16/02    PG. CONVENIO ODONTO SISTEM-CH.4398                                        3.861,00         30.043,93 D
+16/02/11 0001 117    0 16/02    PG. TAXAS BANCARIAS CONF.EXTRATO CREDCOOP                                     4,05         30.039,88 D
+17/02/11 0001  91    0 17/02    PG. REPASSE AUX.DOENCA-PROF.LICINEIDE-CH.4403                             5.230,00         24.809,88 D
+17/02/11 0001 105    0 17/02    PG. DESP.DE COMB USTIVEL C/NF.-CH.4401                                      120,00         24.689,88 D
+22/02/11 0001  42    0 22/02    PG. HONORARIOS TADEU CINCURA C/RECIBO CH.4405                             1.635,00         23.054,88 D
+22/02/11 0001  44    0 22/02    PG. HONORARIOS TADEU CINCURA C/RECIBO CH.4404                               250,00         22.804,88 D
+22/02/11 0001  59    0 22/02    PG. LAVAGEM DE VEICULO C/RECIBO-CH.4406                                      15,00         22.789,88 D
+23/02/11 0001  63    0 23/02    VL. SQUE CH.4408 P/PAGAMENTO DESPESAS                                        50,00         22.739,88 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0007
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+23/02/11 0001  81    0 23/02    PG. DESP.FOTOCOPIAS CONF.NF-CH.4407                                          69,72         22.670,16 D
+23/02/11 0001 114    0 23/02    VL. DEPOSITOUNIMED REF.COMISSOES                        3.404,00                           26.074,16 D
+24/02/11 0001  99    0 24/02    PG. DESP.COMBUSTIVEL CONF.NF.-CH.4409                                       120,00         25.954,16 D
+25/02/11 0001  61    0 25/02    PG. DESP.DE FAXINA CONF.RECIBO-CH.4410                                      180,00         25.774,16 D
+25/02/11 0001  75    0 25/02    PG. IMPRESSAO 2000 CARTAS ABERTA C/NF-CH.4411                               135,00         25.639,16 D
+25/02/11 0001 111    0 25/02    PG. AQUISICAO COTAS CONF.EXTRATO CREDCOOP                                    30,00         25.609,16 D
+28/02/11 0001  48    0 28/02    PG. COMPL.SALARIO EMPREGADOS DEZ/10-D-C/C                                   491,11         25.118,05 D
+28/02/11 0001  55    0 28/02    PG. SALARIO EMPREGADOS CONF.FL.PGTO.D-C/C                                 2.620,99         22.497,06 D
+28/02/11 0001  71    0 28/02    PG. DESP.DE LANCHES CONF.CF-CH.4386                                          90,08         22.406,98 D
+28/02/11 0001  93    0 28/02    PG. DESP.DE CORREIO CONF.NOTA-CH.4412                                        39,40         22.367,58 D
+28/02/11 0001 121    0 28/02    PG.TAXA CREDCOOP C/EXTR                                                      20,00         22.347,58 D
+02/03/11 0001  48    0 02/03    VL.AAPLICAO C CDI C/EXTRATO CREDCOOP                                     10.000,00         12.347,58 D
+03/03/11 0001  36    0 03/03    PG. PARCELA-1 COMPRA DE NOTEBOOK-CH.4419                                    500,00         11.847,58 D
+03/03/11 0001  39    0 03/03    PG. PARCELA-1 AQUISICAO COMPUTADOR-CH.4414                                  902,67         10.944,91 D
+03/03/11 0001  94    0 03/03    PG. MARCA DAS CAMISAS C/RECIBO-CH.4418                                      100,00         10.844,91 D
+10/03/11 0001  31    0 10/03    VL. CHEQUE 4415 PAGAMENTO DESP.DIVERSAS                                     135,00         10.709,91 D
+10/03/11 0001  42    0 10/03    PG.CONTR.INSS  FEV/11 CONF.GPS-CH.4428                                    1.504,93          9.204,98 D
+10/03/11 0001  50    0 10/03    PG. CONVENIO UNIDONTO C/RECIBO-CH.4427                                    1.844,37          7.360,61 D
+10/03/11 0001  62    0 10/03    PG. CONVENIO ORALE C/RECIBO-CH.4431                                       3.134,00          4.226,61 D
+10/03/11 0001  64    0 10/03    PG. HONORARIOS TADEU CINCURA C/RECIBO-CH.4429                             1.441,80          2.784,81 D
+10/03/11 0001  77    0 10/03    PG. HONORARIOS CONTABEIS C/RECIBO-CH.4426                                   545,00          2.239,81 D
+10/03/11 0001  83    0 10/03    VL. CH.PAGAMENTOS DIEESE/JORNAL A TARDE                                     515,00          1.724,81 D
+10/03/11 0001  92    0 10/03    PG. CONFECCAO FARDAS FINC.C/RECIBO-CH.4434                                  318,00          1.406,81 D
+10/03/11 0001 104    0 10/03    PG.DESP.AGUA A EMBASA SA -CH.4424                                            64,08          1.342,73 D
+10/03/11 0001 106    0 10/03    PG.DESP.TELEFONE A TELEMAR -4425                                            276,54          1.066,19 D
+10/03/11 0001 112    0 10/03    PG.ROSAS AMANDA FLORICULT. C/NF-CH.4433                                     375,00            691,19 D
+10/03/11 0001 124    0 10/03    PG. DESP.COMBUSTIVEL CONF.NF.-CH.4423                                       217,00            474,19 D
+11/03/11 0001 100    0 11/03    PG. DESP.COPOS/AGUA MINIRAL C/NF-CH.4437                                     51,00            423,19 D
+11/03/11 0001 126    0 11/03    PG. DESP.COMBUSTIVEL CONF.CF.-CH.4435                                       120,00            303,19 D
+14/03/11 0001   5    0 14/03     VL.RESGATE APLICACAO C/EXTRATO CREDCOOP                2.000,00                            2.303,19 D
+15/03/11 0001  66    0 15/03    PG. SUBSTIT.PROF.MARIA CELMA SOARES-CH.4440                                  80,00          2.223,19 D
+15/03/11 0001  90    0 15/03    PG. DIARIAS DE FAXINA C/RECIBO-CH.4439                                      140,00          2.083,19 D
+15/03/11 0001 130    0 15/03    PG. FILMAGENS (SAUDE DO PROFESSOR)-CH.4438                                  400,00          1.683,19 D
+16/03/11 0001   7    0 16/03     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                    5.428,74                            7.111,93 D
+17/03/11 0001 140    0 17/03    PG. TAXAS DIVERSAS CONF.EXTRATO CREDCOOP                                     25,00          7.086,93 D
+18/03/11 0001   8    0 18/03     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                      120,00                            7.206,93 D
+18/03/11 0001   9    0 18/03     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                   16.283,45                           23.490,38 D
+18/03/11 0001 102    0 18/03    PG.DESP.TELEFONE A TELEMAR -CH.4443                                         535,59         22.954,79 D
+18/03/11 0001 108    0 18/03    PG.DESP.TELEFONE A TELEMAR -CH.4442                                          62,09         22.892,70 D
+18/03/11 0001 110    0 18/03    PG.DESP.RAMALHETE FUNEBRE  C/NF-CH.4445                                     130,00         22.762,70 D
+18/03/11 0001 122    0 18/03    PG. DESP.COMBUSTIVEL CONF.CF.-CH.4441                                       120,00         22.642,70 D
+18/03/11 0001 132    0 18/03    PG. DESP.SEGURANCA TECNOGUARD-CH.4446                                       107,08         22.535,62 D
+18/03/11 0001 136    0 18/03    PG. SEGURO DE VEICULO CONF.RECIBO-C/4444                                  1.883,25         20.652,37 D
+21/03/11 0001  10    0 21/03     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                    3.427,00                           24.079,37 D
+22/03/11 0001  56    0 22/03    PG. CONVENIO SHIATSU CONF.RECIBO-CH.4452                                    370,00         23.709,37 D
+22/03/11 0001  58    0 22/03    PG. CONVENIO CLUBE S.CONQUISTA-CH.4450                                    1.455,00         22.254,37 D
+22/03/11 0001  98    0 22/03    PG. CART.PURIFICADOR AGUA C/NF-CH.4447                                      120,00         22.134,37 D
+22/03/11 0001 118    0 22/03    PG.VIAGEM CESAR A SLVADOR- C/RECIBO-CH.4451                                 300,00         21.834,37 D
+22/03/11 0001 128    0 22/03    PG. DESP.SOM ATO PUBLICO 17/03-CH.4449                                       70,00         21.764,37 D
+23/03/11 0001  68    0 23/03    PG. HORAS EXTRAS JOSE ADEMO C/RECIBO-D.C/C                                   68,36         21.696,01 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0008
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+23/03/11 0001  88    0 23/03    PG. LANCHES/MATR.LIMPEZA.CF-CH.4448                                         141,00         21.555,01 D
+23/03/11 0001 116    0 23/03    PG.DESP.SEDEX/CORREIO CONF NF-CH.44535                                       38,70         21.516,31 D
+23/03/11 0001 120    0 23/03    PG. DESP.COMBUSTIVEL CONF.CF.-CH.4454                                       120,00         21.396,31 D
+25/03/11 0001 138    0 25/03    PG. AQUIISICAO COTAS CONF.EXTRATO CREDCOOP                                   30,00         21.366,31 D
+28/03/11 0001  46    0 28/03    PG.CONVENIO   ORALE CONF.RECIBO-CH.4413                                   5.969,80         15.396,51 D
+29/03/11 0001 114    0 29/03    PG.DESP.MATR.ESCRITORIO C/ NF-CH.4455                                        67,15         15.329,36 D
+30/03/11 0001  44    0 30/03    PG.CONVENIO   ORALE CONF.RECIBO-CH.4461                                   8.737,20          6.592,16 D
+30/03/11 0001  52    0 30/03    PG. CONVENIO ODONTO SISTEM C/RECIBO-CH.4460                               5.319,00          1.273,16 D
+30/03/11 0001  60    0 30/03    PG. CONVENIO CLUBE S.CONQUISTA-CH.4459                                      210,00          1.063,16 D
+30/03/11 0001  79    0 30/03    PG. ASSIN.NORNAL A TARDE C/RECIBO-CH.4458                                   104,25            958,91 D
+30/03/11 0001  85    0 30/03    PG. DIARIAS DE FAXINA CONF.RECIBO-CH.4462                                   140,00            818,91 D
+30/03/11 0001  96    0 30/03    PG. IMPRESSAO CARTA ABERTA C/NF-CH.4456                                     100,00            718,91 D
+30/03/11 0001 134    0 30/03    PG. DESP.SEGURANCA TECNOGUARD-CH.4457                                       107,08            611,83 D
+31/03/11 0001   1    0 31/03     VL.DEPOSITO VENDA DA KOMBI C/RECIBO                    2.000,00                            2.611,83 D
+31/03/11 0001   3    0 31/03     VL.DEPOSITO COMISSOES UNIMED C/EXTRATO                 2.385,79                            4.997,62 D
+31/03/11 0001  53    0 31/03    VL. DEVOLUCAO CH.ODONTO SISTEM C/EXTRATO                5.319,00                           10.316,62 D
+31/03/11 0001  75    0 31/03    PG. SALARIOS EMPREGADOS C/FL.PGTO-D.C/C                                   2.586,07          7.730,55 D
+31/03/11 0001 142    0 31/03    PG. JUROS S/SALDO DEVEDOR C/C CREDCOOP                                       11,17          7.719,38 D
+01/04/11 0001  85    0 01/04    PG. DESP.FOTOCOPIAS CONF.NF.-CH.4463                                        181,86          7.537,52 D
+01/04/11 0001  99    0 01/04    PG. DESP.COMBUSTIVEL CONF.CF-CH.4465                                        120,00          7.417,52 D
+01/04/11 0001 132    0 01/04    PG. IMPRESSAO CARTAZES OUTDOOR C/NF-CH.4464                               1.500,00          5.917,52 D
+01/04/11 0001 148    0 01/04    PG. IOF CONF.EXTRATO CREDCOOP                                                 8,34          5.909,18 D
+03/04/11 0001  28    0 03/04    PG.PARCELA- 2 NOTEBOOK C/CH.4420                                            500,00          5.409,18 D
+03/04/11 0001  30    0 03/04    PG.PARCELA- 2 COMPUTADOR C/CH.4420                                          902,67          4.506,51 D
+05/04/11 0001  32    0 05/04    PG. CONTR.INSS MAR/11 C/GPS-CH.4467                                       1.583,97          2.922,54 D
+05/04/11 0001  37    0 05/04    PG.DEPOSITOS FGTS C/GFIP FEV/2011-CH.4468                                   204,12          2.718,42 D
+05/04/11 0001  59    0 05/04    PG. SUBSTIT.PROF.CELMA CONF.RECIBO-CH.4469                                   40,00          2.678,42 D
+05/04/11 0001  68    0 05/04    PG. HONORARIOS CONTABEIS CONF.RECIBO-CH.4470                                545,00          2.133,42 D
+05/04/11 0001  91    0 05/04    PG.DESP.TELEFONE A TELEMAR -CH.4466                                         297,98          1.835,44 D
+06/04/11 0001 112    0 06/04    PG. ALUGUEL SITIO COMEMORACAO 01/05-CH.4471                                 450,00          1.385,44 D
+06/04/11 0001 140    0 06/04    PG. ,MENSALIDADE DIEESE CONF.RECIBO-CH.4472                                 401,42            984,02 D
+07/04/11 0001 107    0 07/04    PG. PASTAS CURSO REPRESENT.SIND-CH.4473                                     400,00            584,02 D
+08/04/11 0001  72    0 08/04    PG. DIARIAS DE FAXINA CONF.RECIBO-CH.4474                                   105,00            479,02 D
+12/04/11 0001   5    0 12/04    VL.DEPOSITO PMVC CONVENIOS DIVERSOS                     1.000,00                            1.479,02 D
+12/04/11 0001   6    0 12/04    VL.DEPOSITO PMVC CONVENIOS DIVERSOS                       500,00                            1.979,02 D
+13/04/11 0001   3    0 13/04    VL.DEPOSITO PMVC CONVENIOS DIVERSOS                    27.223,27                           29.202,29 D
+14/04/11 0001   4    0 14/04    VL.DEPOSITO PMVC CONVENIOS DIVERSOS                     6.172,98                           35.375,27 D
+14/04/11 0001  39    0 14/04    PG.CONTR.SINDICAL 2011 C/GR-CH.4478                                          85,04         35.290,23 D
+14/04/11 0001  81    0 14/04    PG. PAPEL TIMBRADO/INFORMATIVOS C/NF-CH.4479                                800,00         34.490,23 D
+14/04/11 0001  89    0 14/04    PG.DESP.TELEFONE/LUZ E AGU A CH.4475                                        613,64         33.876,59 D
+14/04/11 0001  97    0 14/04    PG. PATR.ESCRITORIO CONF.NF.-CH.4476                                        186,85         33.689,74 D
+14/04/11 0001 114    0 14/04    PG. CULETES PASSEIO CICLISTICO C/NF-CH.4477                                 480,00         33.209,74 D
+14/04/11 0001 120    0 14/04    PG. CARTAZES PASSEIS CICLISTICO CNF-CH.4480                                 300,00         32.909,74 D
+14/04/11 0001 126    0 14/04    PG. CRIACAO LOG.CAMP.SALARIAL C/NF-CH.4481                                  200,00         32.709,74 D
+15/04/11 0001  35    0 15/04    PG.DEPOSITOS FGTS C/GFIP MARCO/2011-CH.4486                                 224,81         32.484,93 D
+15/04/11 0001  43    0 15/04    PG.CONVENIO ORALE C/RECIBO-CH.4589                                        6.389,70         26.095,23 D
+15/04/11 0001  49    0 15/04    PG.CONVENIO ODONT O SISTEM C/RECIBO-CH.4495                               4.131,00         21.964,23 D
+15/04/11 0001  55    0 15/04    PG. CONVENIO CLUBE S.CONQUISTA-CH.4488                                    1.335,00         20.629,23 D
+15/04/11 0001  95    0 15/04    REPASSE DOACAO PRF.ELAINE  OLIVEIRA-CH.4487                               5.280,00         15.349,23 D
+15/04/11 0001 116    0 15/04    PG. ADIANT.P/LICORES FESTA JUNINA-CH.4496                                   300,00         15.049,23 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0009
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+15/04/11 0001 118    0 15/04    PG. ADIANT.P/MUSICAL FESTA JUNINA-CH.4497                                   700,00         14.349,23 D
+15/04/11 0001 128    0 15/04    PG. VEICULACAO OUTDOOR CAMP.SALARICAL-CH.4483                             3.550,00         10.799,23 D
+15/04/11 0001 130    0 15/04    PG. VEICULACAO OUTDOOR CAMP.SALARICAL-CH.4484                               370,00         10.429,23 D
+15/04/11 0001 134    0 15/04    PG. LOCUCAO PROGR.RADIO CONF.RECIBO-CH.4490                                 545,00          9.884,23 D
+15/04/11 0001 143    0 15/04    PG. LICENCIAMENTO VEICULO C/RECIBO-CH.4485                                  596,20          9.288,03 D
+18/04/11 0001 101    0 18/04    PG. DESP.COMBUSTIVEL CONF.CF-CH.4498                                        120,00          9.168,03 D
+18/04/11 0001 136    0 18/04    PG. CAMISAS SIMMP-CAM.SALARIAL C/NF-CH.4492                               2.050,00          7.118,03 D
+19/04/11 0001   7    0 19/04    VL.DEPOSITO PMVC CONVENIOS DIVERSOS                     3.691,00                           10.809,03 D
+19/04/11 0001  26    0 19/04    PG.AQUISICA O IMPRESSORA EMSOM C/NF-CH.4494                               1.200,00          9.609,03 D
+19/04/11 0001  61    0 19/04    PG. H.EXTRA A JOSE ADELMO C/RECIBO-D C/C                                    109,07          9.499,96 D
+19/04/11 0001  74    0 19/04    PG. DIARIAS DE FAXINA CONF.RECIBO-CH.4500                                   105,00          9.394,96 D
+19/04/11 0001  78    0 19/04    PG. DIAGRAMACAO JORNAL SIMMP C/NF-CH.4501                                    40,00          9.354,96 D
+19/04/11 0001  83    0 19/04    PG. DESP.REFEICOES CONF.NF-CH.4499                                           70,90          9.284,06 D
+20/04/11 0001 152    0 20/04    PG. AQUISICAO COTAS C/CONF.EXTRATO CREDCOOP                                  30,00          9.254,06 D
+25/04/11 0001  41    0 25/04    PG.CONVENIO POLIC ARD C/RECIBO-CH.4505                                    1.667,60          7.586,46 D
+25/04/11 0001  51    0 25/04    PG. CONVENIO SHIATSU C/RECIBO-CH.4503                                       120,00          7.466,46 D
+25/04/11 0001  93    0 25/04    VL.DOACAO CRECHE RAIMUNDO  C.SILVA-CH.4502                                   75,00          7.391,46 D
+25/04/11 0001 138    0 25/04    PG. IMPRESSAO BANNER CONF.NF.CH.4506                                        184,00          7.207,46 D
+25/04/11 0001 144    0 25/04    PG. ALUGUEL AUDITORIO ASSEMB.C.SAL-CH.4514                                  200,00          7.007,46 D
+26/04/11 0001   9    0 26/04    VL.CREDICO  DOC.                                        1.000,00                            8.007,46 D
+26/04/11 0001  20    0 26/04    VL.DEPOSITO CREDCOOP C/RECIBO                             200,00                            8.207,46 D
+27/04/11 0001  45    0 27/04    PG.CONVENIO ODONT OSISTEM C/RECIBO-CH.4510                                  216,00          7.991,46 D
+27/04/11 0001  57    0 27/04    PG. HONORARIOS TAEU CINCURA C/RECIBO-CH.4508                              1.635,00          6.356,46 D
+27/04/11 0001 103    0 27/04    PG. DESP.COMBUSTIVEL CONF.CF-CH.4507                                        123,00          6.233,46 D
+28/04/11 0001  47    0 28/04    PG.CONVENIO ORALE C/RECIBO-CH.4512                                        3.036,20          3.197,26 D
+28/04/11 0001  53    0 28/04    PG. CONVENIO CLUBE S.CONQUISTA-CH.4511                                      255,00          2.942,26 D
+28/04/11 0001  70    0 28/04    PG. LAVAGEM DE VEICULOS CONF.NOTAS-CH.4513                                   30,00          2.912,26 D
+28/04/11 0001  76    0 28/04    PG. PECAS MANUTENCAO VEICULO C/NF-CH.4509                                   150,00          2.762,26 D
+29/04/11 0001  65    0 29/04    PG.SALARIO EMPRE GADOS C/FL.PTRO-D C/C                                    2.215,11            547,15 D
+29/04/11 0001 146    0 29/04    PG. DESP.DIVULG.RADIO CLUBE CONF.NF-CH.4491                               1.000,00            452,85 C
+29/04/11 0001 150    0 29/04    PG. DESP.BANCARIAS CONF.EXTRATO CREDCOOP                                     21,00            473,85 C
+30/04/11 0001 182    0 30/04    PG. IPVA DE VEICULO CONF.RECIBO-CH.4493                                     143,35            617,20 C
+02/05/11 0001 185    0 02/05    PG. SERV.SOM EVENTO DE 01 MAIO-CH.4515                                      400,00          1.017,20 C
+02/05/11 0001 187    0 02/05    PG. CACHORRO QUENTE EVENTO 01 MAIO-CH.4516                                  200,00          1.217,20 C
+03/05/11 0001   2    0 03/05     VL.RESGATE APLICACAO CEF C/EXTRATO                     9.986,50                            8.769,30 D
+03/05/11 0001  79    0 03/05    PG. PARCELA-3 NOTEBOOK CONF.CH.4421                                         500,00          8.269,30 D
+03/05/11 0001  81    0 03/05    PG. PARCELA-3 COMPUTADOR CONF.CH.4417                                       902,67          7.366,63 D
+05/05/11 0001 126    0 05/05    PG. DIARIAS DE FAXINA C/RECIBO-CH.4518                                      140,00          7.226,63 D
+05/05/11 0001 169    0 05/05    PG.VALE TRANSPORTE ALINE S MOTA-CH.4517                                     152,00          7.074,63 D
+05/05/11 0001 175    0 05/05    PG. VALE TRANSPORTE EMPREGADOS-C/RECIBO-D.C/C                               304,00          6.770,63 D
+09/05/11 0001  91    0 09/05    PG. CONV.UNIDONTO E CARRO DE SOM-CH.4523                                  2.100,00          4.670,63 D
+09/05/11 0001 136    0 09/05    PG. IMPRESSAO A ESPACO GRAFICO C/NF.CH.4522                                 160,00          4.510,63 D
+09/05/11 0001 138    0 09/05    PG. DIVULGACAO CARRO DE SOM C/RECIBO-CH.4519                                 70,00          4.440,63 D
+09/05/11 0001 157    0 09/05    PG.DESP.TELEFONE A TELEMAR -CH.4521                                         614,96          3.825,67 D
+09/05/11 0001 177    0 09/05    PG. DESP.COMBUSTIVEL CONF.CF-CH.4520                                        150,00          3.675,67 D
+10/05/11 0001 165    0 10/05    PG.DESP.CARTUCHOS CONF.CF. -CH.4524                                         296,00          3.379,67 D
+11/05/11 0001   4    0 11/05     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                    5.601,87                            8.981,54 D
+11/05/11 0001   5    0 11/05     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                   22.221,92                           31.203,46 D
+11/05/11 0001  27    0 11/05    VL.SAQUE CH 4436 PGTO.DE DESPESAS                                           200,00         31.003,46 D
+12/05/11 0001 134    0 12/05    PG. DESP.DE FAIXAS CONF.N.FISCAL-CH.4526                                     50,00         30.953,46 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0010
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+12/05/11 0001 155    0 12/05    PG.DESP.AGUA/ENERGIA C/R ECIBOS-CH.4525                                     127,78         30.825,68 D
+13/05/11 0001 116    0 13/05    PG. HORAS EXTRAS A JOSE ADELMO -D-C/C                                       128,65         30.697,03 D
+13/05/11 0001 128    0 13/05    PG. DIARIAS DE FAXINA C/RECIBO-CH.4527                                       70,00         30.627,03 D
+13/05/11 0001 191    0 13/05    PG. ALUGUEL SALA CENTRO DE CULTURA-CH.4528                                  200,00         30.427,03 D
+16/05/11 0001   6    0 16/05     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                       94,52                           30.521,55 D
+16/05/11 0001  83    0 16/05    PG.CONTR.INSS -ABR/11 CONF.GPS-CH.4535                                    1.010,64         29.510,91 D
+16/05/11 0001  85    0 16/05    PG.DEPOSITOS FGTS ABR/11 CONF.GFIP-CH.4534                                  215,48         29.295,43 D
+16/05/11 0001 100    0 16/05    PG. CONVENIO ORALE C/RECIBO-CH.4531                                       6.701,30         22.594,13 D
+16/05/11 0001 104    0 16/05    PG. CONVENIO ODONTO SISTEM C/RECIBO-CH.4530                               4.225,50         18.368,63 D
+16/05/11 0001 106    0 16/05    PG. CONVENIO CLUBE S CONQUISTA-CH.4529                                    1.320,00         17.048,63 D
+16/05/11 0001 108    0 16/05    PG. HONORARIO TADEU CINCURA C/RECIBO-CH.4536                              1.635,00         15.413,63 D
+16/05/11 0001 124    0 16/05    PG. HONORARIOS CONTABEIS C/RECIBO-CH.4533                                   545,00         14.868,63 D
+16/05/11 0001 148    0 16/05    PG. SERV.CARRO DE SOM PARALIZ 11/04-CH.4532                                  60,00         14.808,63 D
+17/05/11 0001   7    0 17/05     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                    3.838,00                           18.646,63 D
+17/05/11 0001 150    0 17/05    PG. REFEICOES CURSOS FORM.PROF.C/NF-CH.4538                                 500,00         18.146,63 D
+17/05/11 0001 152    0 17/05    PG. DESP.P/LANCHES CONF.CF-CH.4537                                           61,24         18.085,39 D
+18/05/11 0001 181    0 18/05    PG. DESP.COMBUSTIVEL CONF.CF-CH.4539                                        150,00         17.935,39 D
+18/05/11 0001 211    0 18/05    PG. CAMISAS CAMP.SALARIAL C/NF-CH.4540                                    1.000,00         16.935,39 D
+19/05/11 0001   8    0 19/05     VL.CREDITO S/RECEITAS DIVIDENDOS CREDCOOP              4.706,92                           21.642,31 D
+19/05/11 0001 114    0 19/05    PG. SUBSTIT.PROF.CESAR C/RECIBO-CH.4546                                      80,00         21.562,31 D
+19/05/11 0001 132    0 19/05    PG. DIVULGACAO PROG.RADIO C/RECIBO-CH.4541                                  585,00         20.977,31 D
+19/05/11 0001 140    0 19/05    PG. DESP.FAIXAS CONF.NF.0087-CH.4542                                        198,00         20.779,31 D
+19/05/11 0001 171    0 19/05    PG.DIARIA HOTEL FENIX CONF NF-CH.4545                                       150,00         20.629,31 D
+19/05/11 0001 173    0 19/05    PG. PASSAGEM AEREA-PALESTRANTE C/REC.CH-4549                              1.697,96         18.931,35 D
+19/05/11 0001 207    0 19/05    PG. ALUGUEL SALAO CLUBE S.CONQUISTA0-CH.4547                              1.000,00         17.931,35 D
+19/05/11 0001 209    0 19/05    PG. ALUGUEL DE CADEIRAS CONF.NF-CH.4548                                      60,00         17.871,35 D
+19/05/11 0001 213    0 19/05    PG. FILMAGEM ATO PUBLICO C/NF-CH.4543                                       350,00         17.521,35 D
+19/05/11 0001 215    0 19/05    PG. GINGLE/SPOT CAMP.SALARIAL-CH.4544                                       500,00         17.021,35 D
+20/05/11 0001  31    0 20/05    VL.SAQUE P/ PGTO.DESP.FORUM DE PAIS-CH.4551                               1.600,00         15.421,35 D
+20/05/11 0001  35    0 20/05    PG. FRETE VANS-FORUM DE PAIS C/NOTAS-CH.4550                              1.500,00         13.921,35 D
+23/05/11 0001 112    0 23/05    PG. SUBSTIT.PROF.CELMA C/RECIBO-CH.4555                                     120,00         13.801,35 D
+23/05/11 0001 193    0 23/05    PG. MARMITEX FURUM DE PAIS C/RECIBO-CH.4552                                 822,00         12.979,35 D
+23/05/11 0001 195    0 23/05    PG. ALUGUEL CADEIRAS PLASTICAS-CH.4554                                      100,00         12.879,35 D
+23/05/11 0001 197    0 23/05    PG. SERV.SOM MOTO CONF.RECIBO-CH.4553                                       200,00         12.679,35 D
+24/05/11 0001 110    0 24/05    PG. SUBSTIT.PROF.ANDRE C/RECIBO-CH.4558                                      40,00         12.639,35 D
+24/05/11 0001 183    0 24/05    PG. DESP.COMBUSTIVEL CONF.CF-CH.4561                                        100,00         12.539,35 D
+24/05/11 0001 189    0 24/05    PG. DESP.COMBUSTIVEL CONF.CF-CH.4557                                        130,00         12.409,35 D
+24/05/11 0001 199    0 24/05    PG. ARRANJO FLORES CONF.N.FISCAL-CH.4560                                     40,00         12.369,35 D
+24/05/11 0001 205    0 24/05    PG. DESP.P/ASSEMBL.30 MAIO C/RECIBO-CH.4556                                 500,00         11.869,35 D
+24/05/11 0001 227    0 24/05    PG. AQUISICAO COTRAS C/EXTRATO CREDCOOP                                      30,00         11.839,35 D
+25/05/11 0001 102    0 25/05    PG. CONVENIO UNIDONTO C/RECIBO-CH.4563                                    1.844,37          9.994,98 D
+25/05/11 0001 144    0 25/05    PG. SERV.BOLETIM INFORMATIVO C/RECIBO-CH.4568                                40,00          9.954,98 D
+25/05/11 0001 146    0 25/05    PG. PANLETOS/BOLETINS CONF.NF.0735-CH.4564                                1.090,00          8.864,98 D
+25/05/11 0001 159    0 25/05    PG.DOACAO P/CONFRATERNIZ.S INDLIMP-CH.4565                                  200,00          8.664,98 D
+25/05/11 0001 161    0 25/05    PG.MATR.DE ESCRIMTORIO CON F.NF-CH.4562                                     129,65          8.535,33 D
+25/05/11 0001 163    0 25/05    PG.RECARGA CARTUCHOS CONF. NF-CH.4567                                        40,00          8.495,33 D
+25/05/11 0001 167    0 25/05    PG.DESP.MANUT.COMPUTADOR C /NF-CH.4569                                      457,00          8.038,33 D
+25/05/11 0001 201    0 25/05    PG. ALUGUEL DE TOALHAS CONF.NF-CH.4559                                       30,00          8.008,33 D
+26/05/11 0001   9    0 26/05     VL.DEPOSITO CREDCOOP CONF.RECIBO                         648,50                            8.656,83 D
+26/05/11 0001  96    0 26/05    PG. CONVENIO POLICARD C/RECIBO-CH.4575                                    1.219,18          7.437,65 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0011
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+26/05/11 0001 142    0 26/05    PG. IMPRESSAO 3000 PANFLETOS C/NF-CH.4572                                   135,00          7.302,65 D
+26/05/11 0001 217    0 26/05    PG. PANAFLETAGEM CAMP.SALARIAL-CH.4571                                      350,00          6.952,65 D
+26/05/11 0001 219    0 26/05    PG. CARRO SOM MANIFEST.NA PREFEITURA-CH.4470                                 60,00          6.892,65 D
+27/05/11 0001  98    0 27/05    PG. CONVENIO ORALE C/RECIBO-CH.4579                                       3.447,00          3.445,65 D
+27/05/11 0001 130    0 27/05    PG. DIARIAS DE FAXINA C/RECIBO-CH.4576                                      140,00          3.305,65 D
+27/05/11 0001 221    0 27/05    PG. 54 H.MOTO/SOM CONF.RECIBO-CH.4574                                       432,00          2.873,65 D
+30/05/11 0001 179    0 30/05    PG. DESP.COMBUSTIVEL CONF.CF-CH.4583                                        100,00          2.773,65 D
+30/05/11 0001 203    0 30/05    PG. LANCHES PANIFIC.PAI DE MEL C/NF-CH.4582                                 320,00          2.453,65 D
+31/05/11 0001  10    0 31/05     VL.DEPOSITO CREDCOOP-VENDA DA KOMBI                    2.000,00                            4.453,65 D
+31/05/11 0001  29    0 31/05    PG.PARCELA  CHURRAQUINHO S.JOAO-CH.4584                                     800,00          3.653,65 D
+31/05/11 0001 122    0 31/05    PG. SALARIO/VALE TRANSPOTE EMPREGADOS-D.C/C                               2.571,11          1.082,54 D
+31/05/11 0001 223    0 31/05    PG. DESP.BANCARIAS CONF.EXTRATO CREDCOOP                                     29,36          1.053,18 D
+31/05/11 0001 225    0 31/05    PG. JUROS S/SALDO DEVERDOR C/C CREDCOOP                                       0,85          1.052,33 D
+01/06/11 0001 127    0 01/06    PG. TRAVA ELETRICA VEICULO CONF.NF-CH.4593                                  435,00            617,33 D
+01/06/11 0001 129    0 01/06    PG. RACH P/CARRO DE SOM C/REICOBO CH.4592                                   170,00            447,33 D
+01/06/11 0001 167    0 01/06    PG.DESP.COMBUSTIVEL CONF.C F-CH.4585                                        120,00            327,33 D
+01/06/11 0001 169    0 01/06    PG.ALMOCO C/ANA GEORGINA-- DIEESE-CH.4586                                   370,00             42,67 C
+01/06/11 0001 171    0 01/06    PG.BISCOITOS P/CURSO FORM. SINDICAL-CH.4590                                 126,00            168,67 C
+01/06/11 0001 173    0 01/06    PG.FILMAGEM FORUM REDE MUN C/NF-CH.4589                                     300,00            468,67 C
+01/06/11 0001 205    0 01/06    PG. DESP.PIPOCAS/AMENDOIM C/RECIBO-CH.4588                                  320,00            788,67 C
+01/06/11 0001 207    0 01/06    PG. DESP.CARRO DE SOM CAMP.SALARIAL-CH.4587                                 380,00          1.168,67 C
+01/06/11 0001 235    0 01/06    PG. PARCELA SEGURO GOL CONF.D.C/C                                           388,62          1.557,29 C
+01/06/11 0001 237    0 01/06    PG. IOF CONF.EXTRATO CREDCOOP                                                 1,93          1.559,22 C
+02/06/11 0001  26    0 02/06    RESGATE RDC  C/EXTRATO CREDCOOP                           320,00                            1.239,22 C
+02/06/11 0001  74    0 02/06    PG. EQUIPAMENTO SOM P/VEICULO C/NF-CH.4575                                3.000,00          4.239,22 C
+02/06/11 0001 108    0 02/06    PG. SUBSTIT.PROF.GEANE OLIVEIRA -CH.4594                                     80,00          4.319,22 C
+02/06/11 0001 175    0 02/06    PG.DIARIA HOTEL-ANA GEORGI NA DIEESE-CH.4591                                 50,00          4.369,22 C
+03/06/11 0001   1    0 03/06     VL.TRANSF.TED C.F.D CONF.RECIBO                       15.000,00                           10.630,78 D
+03/06/11 0001  12    0 03/06     VL.SAQUE P/PAGAMENTO CONF.CH.4595                                          200,00         10.430,78 D
+03/06/11 0001 110    0 03/06    PG. DIFERENCA SALARIO MAIO-DAIANE-CH.4600                                   100,00         10.330,78 D
+03/06/11 0001 147    0 03/06    PG. DIVULGACAO RADIO CLUBE C/NF.-CH.4598                                  1.000,00          9.330,78 D
+03/06/11 0001 183    0 03/06    PG. DESP.VIAGEM E TAXI ANA GEORGINA-CH.4599                                 495,44          8.835,34 D
+03/06/11 0001 209    0 03/06    PG. DESP.CARRO DE SOM CAMP.SALARIAL-CH.4597                                 380,00          8.455,34 D
+04/06/11 0001  80    0 04/06    PG.CONVENIO ORALE CONF.RECIBO-CH.4663                                     3.410,50          5.044,84 D
+04/06/11 0001  84    0 04/06    PG.CONVENIO ATEND E ODONTO C/RECIBO-CH.4662                                 168,50          4.876,34 D
+04/06/11 0001  90    0 04/06    PG.CONVENIO UNIDO NTO C/RECIBO-CH.4666                                    1.844,37          3.031,97 D
+04/06/11 0001  96    0 04/06    PG. CONVENIO CLUBE S.CONQUISTA-CH.4661                                      210,00          2.821,97 D
+06/06/11 0001 159    0 06/06    PG.DESP.COMBUSTIVEL CONF.C F-CH.4603                                        100,00          2.721,97 D
+06/06/11 0001 187    0 06/06    PG. PARCELA-2 MILHO COZIDO-S.JOAO-CH.4601                                   300,00          2.421,97 D
+06/06/11 0001 189    0 06/06    PG. PARCELA ORNMENTACAO S.JOAO SIMMP-CH.4602                              2.500,00             78,03 C
+07/06/11 0001  78    0 07/06    PG.DEPOSITOS FGTS MAI/11 CONF.GFIP-CH.4605                                  204,12            282,15 C
+07/06/11 0001  88    0 07/06    PG.CONVENIO ATEND E ODONTO C/RECIBO-CH.4607                                  94,52            376,67 C
+07/06/11 0001 125    0 07/06    PG. CONTABILID.DIEESE/TECNOGUAR/TEL-CH.4604                               1.320,85          1.697,52 C
+07/06/11 0001 185    0 07/06    PG. ALUGUEL VEICULO MANIFEST.PRADOSO-CH.4606                                250,00          1.947,52 C
+08/06/11 0001  14    0 08/06     VL.SAQUE P/PAGAMENTO CONF.CH.4596                                          200,00          2.147,52 C
+09/06/11 0001 135    0 09/06    PG. DIVULGACAO TV SUDOESTE C/NOTA-CH.4610                                 3.800,00          5.947,52 C
+09/06/11 0001 157    0 09/06    PG.VINHETA A THIAGO SA C/R ECIBO-CH.4608                                    200,00          6.147,52 C
+10/06/11 0001 112    0 10/06    PG. HORA EXTRA JOSE ADELMO C/RECIBO-CH.4613                                 211,83          6.359,35 C
+10/06/11 0001 133    0 10/06    PG. DIARIAS DE FAXINA CONF.RECIBO CH.4614                                   140,00          6.499,35 C
+10/06/11 0001 161    0 10/06    PG.DESP.COMBUSTIVEL CONF.C F-CH.4616                                         50,00          6.549,35 C
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0012
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+10/06/11 0001 191    0 10/06    PG. SHOW GILVAN DA PARAIBA-S.JOAO-CH.4615                                 1.150,00          7.699,35 C
+10/06/11 0001 193    0 10/06    PG. DESP.SEGURANCA S.JOAO SIMMP-CH.4612                                     325,00          8.024,35 C
+10/06/11 0001 195    0 10/06    PG. ALUGUEL CLUBE S.CONQUISTA-CH.4611                                     1.000,00          9.024,35 C
+10/06/11 0001 197    0 10/06    PG. DESP.C/ALUGUEL CLUBE S.CONQUISTA-CH.4609                                180,00          9.204,35 C
+13/06/11 0001   3    0 13/06     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                    5.458,82                            3.745,53 C
+13/06/11 0001 143    0 13/06    PG. PANFLETAGEM NOS BAIRROS C/RECIBO-CH.4617                                200,00          3.945,53 C
+14/06/11 0001   4    0 14/06     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                   22.071,01                           18.125,48 D
+14/06/11 0001  16    0 14/06     VL.SAQUE P/PAGAMENTO CONF.CH.4620                                        3.500,00         14.625,48 D
+14/06/11 0001 145    0 14/06    PG. DESP.CARRO DE SOM CONF.RECIBO-CH.4619                                    72,00         14.553,48 D
+14/06/11 0001 163    0 14/06    PG.DESP.COMBUSTIVEL CONF.C F-CH.4625                                        120,00         14.433,48 D
+14/06/11 0001 165    0 14/06    PG.DESP.COMBUSTIVEL CONF.C F-CH.4624                                         80,00         14.353,48 D
+14/06/11 0001 199    0 14/06    PG. PARCELA MILHO COZIDO FORRO SIMMP-CH.4622                                300,00         14.053,48 D
+15/06/11 0001  76    0 15/06    PG.CONTR.INSS -MAI/11 CONF.GPS-CH.4634                                    1.010,64         13.042,84 D
+15/06/11 0001  82    0 15/06    PG.CONVENIO ORALE CONF.RECIBO-CH.4631                                     7.202,90          5.839,94 D
+15/06/11 0001  86    0 15/06    PG.CONVENIO ATEND E ODONTO C/RECIBO-CH.4627                                 263,02          5.576,92 D
+15/06/11 0001  92    0 15/06    PG. CONVENIO ODONTO SISTEM C/RECIBO-CH.4629                               4.671,00            905,92 D
+15/06/11 0001  98    0 15/06    PG. CONVENIO CLUBE S.CONQUISTA-CH.4628                                    1.290,00            384,08 C
+15/06/11 0001 141    0 15/06    PG. IMPRESSOS DIVERSOS ESPACO GRAFICO-CH.4637                               647,00          1.031,08 C
+15/06/11 0001 149    0 15/06    PG. FOTOCOPIAS/DIGITACAO E OUTROS-CH.4626                                 1.743,92          2.775,00 C
+15/06/11 0001 153    0 15/06    PG.DESP.TELEFONE/AGUA/LUZ  C/RECIBOS-CH.4632                                461,96          3.236,96 C
+15/06/11 0001 155    0 15/06    PG.MATR.DE ESCRITORIO CONF NF-CH.4633                                       472,90          3.709,86 C
+15/06/11 0001 203    0 15/06    PG. LOCACAO SOM P/FESTA S.JOAO SIMMP-CH.4618                                600,00          4.309,86 C
+15/06/11 0001 211    0 15/06    PG. DESP.OUTDOOR CAMP.SALARIAL C/NF-CH.4635                               2.300,00          6.609,86 C
+15/06/11 0001 213    0 15/06    PG. REFEICOES CAMP.SALARIAL C/NF-CH.4636                                    149,00          6.758,86 C
+15/06/11 0001 215    0 15/06    PG. FAIXAS CAMP.SALARIAL C/RECIBO-CH.4621                                   100,00          6.858,86 C
+16/06/11 0001   5    0 16/06     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                    4.583,50                            2.275,36 C
+16/06/11 0001 217    0 16/06    PG. REFEICOS CAMP.SALARIAL C/NF-CH.4640                                     550,00          2.825,36 C
+16/06/11 0001 219    0 16/06    PG. ALUGUEL AUDITORIO SIND.BANCARIOS-CH.4639                                200,00          3.025,36 C
+17/06/11 0001  94    0 17/06    PG. CONVENIO BELA ESTETICA C/RECIBO-CH.4643                                 407,00          3.432,36 C
+17/06/11 0001 104    0 17/06    PG. SUBSTIT.PROF.CELMA 4 DIAS-CH.4645                                       200,00          3.632,36 C
+17/06/11 0001 179    0 17/06    PG. DESP.HOSPEDAGEM HOTEL FENIX C/NF-CH.4638                                113,00          3.745,36 C
+17/06/11 0001 181    0 17/06    PG. PASSAGEM AEREA P/DIRETORA DIEESE-CH.4641                              1.453,90          5.199,26 C
+17/06/11 0001 229    0 17/06    PG. SERV.ORNAMENTACAO SALAO FORRO-CH.4642                                 3.200,00          8.399,26 C
+17/06/11 0001 233    0 17/06    PG. DESP.LICOR P/FORRO SIMMP C/RECIBO-CH.4644                               900,00          9.299,26 C
+20/06/11 0001 102    0 20/06    PG. HONORARIO TADEU CINCURA C/RECIBO-CH.4648                              1.635,00         10.934,26 C
+20/06/11 0001 106    0 20/06    PG. SUBSTIT.2 DIAS PROF.CESAR-CH.4647                                       120,00         11.054,26 C
+20/06/11 0001 120    0 20/06    PG. 13.SALARIO PRIMEIRA PARCELA-D.C/C                                     1.275,79         12.330,05 C
+20/06/11 0001 137    0 20/06    PG. SERVICO RADIO SIMMP NA CIDADE-CH.4649                                   545,00         12.875,05 C
+20/06/11 0001 139    0 20/06    PG. DIVULGACAO SIMMPRADIO CLUBE C/NF-CH.4650                              1.000,00         13.875,05 C
+20/06/11 0001 177    0 20/06    PG. REFEICOES C/ANA GEORGINA C/NF-CH.4646                                   237,74         14.112,79 C
+21/06/11 0001 131    0 21/06    PG. DIARIAS DE FAXINA CONF.RECIBO CH.4654                                   105,00         14.217,79 C
+21/06/11 0001 221    0 21/06    PG. ALUGUEL AUDITORIO DIOCESE VC-CH.4655                                    200,00         14.417,79 C
+21/06/11 0001 223    0 21/06    PG. DESP.OUTDOOR CONF.NF-CH.4653                                          3.040,00         17.457,79 C
+21/06/11 0001 225    0 21/06    PG. MUTUMBA COMUNIC.CONSULTORIA C/NF-CH.4652                                200,00         17.657,79 C
+21/06/11 0001 227    0 21/06    PG. COLAGEM CARTAZES CAMP.SALARIAL-CH.4651                                  150,00         17.807,79 C
+22/06/11 0001 243    0 22/06    PG. AQUISICAO COTAS C/EXTRATO CREDCOOP                                       30,00         17.837,79 C
+27/06/11 0001 100    0 27/06    PG. CONVENIO CLUBE S.CONQUISTA-CH.4580                                      210,00         18.047,79 C
+30/06/11 0001   6    0 30/06     VL.RESGATE APLICACAO CREDCOOP C/EXTRATO               15.000,00                            3.047,79 C
+30/06/11 0001 118    0 30/06    PG. VALE TRANSPORTE EMPREADOS- D.C/C                                      2.719,11          5.766,90 C
+30/06/11 0001 201    0 30/06    PG. SHOW FULO DO CANGASSO FORRO SIMMP-CH.4623                             1.000,00          6.766,90 C
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0013
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+30/06/11 0001 231    0 30/06    PG. MOTO SOM CAMP.SALARIAL C/RECIBO-CH.4581                                 120,00          6.886,90 C
+30/06/11 0001 239    0 30/06    PG. DESP.BANCARIAS CONF.EXTRATO CREDCOOP                                     16,00          6.902,90 C
+30/06/11 0001 241    0 30/06    PG. JUROS S/SALDO DEV.C/CORRENTE-CREDCOOP                                   135,85          7.038,75 C
+30/06/11 0001 245    0 30/06    PG. CONFECCAO CHARGE CAMP.SALARIAL-CH.4657                                  270,00          7.308,75 C
+01/07/11 0001 142    0 01/07    PG.DESP.COMBUSTIVEL CONF.CF -CH.4656                                        120,00          7.428,75 C
+01/07/11 0001 165    0 01/07    PG. IOF CONF.EXTRATO CREDCOOP                                                28,05          7.456,80 C
+04/07/11 0001   1    0 04/07     VL.RESGATE APLICACAO CREDCOOP C/RECIBO                15.000,00                            7.543,20 D
+04/07/11 0001  62    0 04/07    PG.DEPOSITOS FGTS JUN/11 CONF.GFIP-CH.4659                                  306,19          7.237,01 D
+04/07/11 0001  80    0 04/07    PG. CONVENIO ODONTO SISTEM C/RECIBO-CH.4660                                 553,50          6.683,51 D
+04/07/11 0001 148    0 04/07    PG.PAMFLETAGEM CONP.SALARIO C/RECIBO-CH.4667                                105,00          6.578,51 D
+04/07/11 0001 156    0 04/07    PG. DESP.MOTO SOM-CAMP.SALARIAL-CH.4664                                     368,00          6.210,51 D
+04/07/11 0001 163    0 04/07    PG. DIEESE/TECNOGUARD C/RECIBOS-CH.4658                                     508,50          5.702,01 D
+05/07/11 0001 146    0 05/07    PG.ALUGUEL AUDITORIO DIOSES ANO-CH.4669                                     200,00          5.502,01 D
+05/07/11 0001 158    0 05/07    PG. DESP.PAMFLETAGEM C.SALARIAL-CH.4668                                     210,00          5.292,01 D
+06/07/11 0001 160    0 06/07    PG. A VIRTUAL SERV.PROCES.DADOS C/NF-CH.4671                                678,00          4.614,01 D
+07/07/11 0001  90    0 07/07    PG. SUBSTIT.PROF.CELMA C/RECIBO-CH.4673                                      40,00          4.574,01 D
+07/07/11 0001  97    0 07/07    PG. MATR.LIMPEZA C/NF-CH.4670                                               185,85          4.388,16 D
+07/07/11 0001 109    0 07/07    PG. CONFECCAO 200 BIG HANDS C/NF.CH.4672                                    800,00          3.588,16 D
+07/07/11 0001 127    0 07/07    PG.DESP.TELEFONE A TELEMAR -CH.4674                                         516,96          3.071,20 D
+11/07/11 0001  60    0 11/07    PG. A LAILTON L.OLIVEIRA BLOCO/KOMBI-CH.4676                                450,00          2.621,20 D
+11/07/11 0001  64    0 11/07    PG.CONTR.INSS JUN /1011 C/GPS-CH.4678                                     1.010,64          1.610,56 D
+11/07/11 0001 130    0 11/07    PG. MATR.DE ESCRITORIO CONF.NF-CH.4677                                      286,99          1.323,57 D
+11/07/11 0001 138    0 11/07    PG.DESP.COMBUSTIVEL CONF.CF -CH.4675                                        120,00          1.203,57 D
+12/07/11 0001   4    0 12/07     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                    2.030,57                            3.234,14 D
+12/07/11 0001   5    0 12/07     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                   24.036,66                           27.270,80 D
+12/07/11 0001   6    0 12/07     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                    3.931,93                           31.202,73 D
+15/07/11 0001  68    0 15/07    PG.CONVENIO ATEND E OCONTO C/RECIBO-CH.4684                                  94,52         31.108,21 D
+15/07/11 0001  70    0 15/07    PG. CONVENIO ORALE C/RECIBO-CH.4687                                       7.447,24         23.660,97 D
+15/07/11 0001  76    0 15/07    PG. CONVENIO ODONTO SISTEM C/RECIBO-CH.4688                               4.482,00         19.178,97 D
+15/07/11 0001  82    0 15/07    PG. CONVENIO BELLA ESTETICA C/RECIBO-CH.4682                                467,00         18.711,97 D
+15/07/11 0001  86    0 15/07    PG. CONVENIO CLUBE S.CONQUISTA-CH.4683                                    1.305,00         17.406,97 D
+15/07/11 0001  88    0 15/07    PG. HONORARIOS TADEU CINCURA C/RECIBO-CH.4679                             1.635,00         15.771,97 D
+15/07/11 0001  99    0 15/07    PG. DIARIAS DE FAXINA CONF.RECIBO-CH.4689                                   140,00         15.631,97 D
+15/07/11 0001 152    0 15/07    PG. PRODUCAO 6 CARTAZES P/OUTDOOR-CH.4681                                   900,00         14.731,97 D
+15/07/11 0001 154    0 15/07    PG. CONFECAO PAMFLETOS CAM.SALARIAL-CH.4680                                 450,00         14.281,97 D
+21/07/11 0001  18    0 21/07    VL.DEPOSITO PMVC CONVENIOS DEIVERSOS                    4.432,50                           18.714,47 D
+22/07/11 0001  92    0 22/07    PG. HONORARIOS CONTABEIS C/RECIBO-CH.4691                                   545,00         18.169,47 D
+22/07/11 0001 140    0 22/07    PG.DESP.COMBUSTIVEL CONF.CF -CH.4690                                        120,00         18.049,47 D
+24/07/11 0001 107    0 24/07    PG. DIVULG.JORNAL A SEMAMA C/NF-CH.4712                                     200,00         17.849,47 D
+25/07/11 0001  66    0 25/07    PG.CONVENIO ATEND E OCONTO C/RECIBO-CH.4693                                 168,50         17.680,97 D
+25/07/11 0001  72    0 25/07    PG. CONVENIO ORALE C/RECIBO-CH.4698                                       3.252,80         14.428,17 D
+25/07/11 0001  78    0 25/07    PG. CONVENIO ODONTO SISTEM C/RECIBO-CH.4694                                 600,00         13.828,17 D
+25/07/11 0001  84    0 25/07    PG. CONVENIO CLUBE S.CONQUISTA-CH.4692                                      210,00         13.618,17 D
+25/07/11 0001 132    0 25/07    PG.ENEGIA ELETRICA · COELBA -CH.4697                                         53,74         13.564,43 D
+25/07/11 0001 150    0 25/07    PG. VEICULACAO OUTDOOR C.SALARIAL-CH.4699                                 2.280,00         11.284,43 D
+26/07/11 0001 167    0 26/07    PG. AQUISICAO COTAS CREDCOOP C/EXTRATO                                       30,00         11.254,43 D
+27/07/11 0001  95    0 27/07    PG. MATR.LIMPEZA/CAFE/LANCHES C/CF-CH.4703                                  105,00         11.149,43 D
+27/07/11 0001 121    0 27/07    PG. DESP.SALGADOS CONF.NF.-CH.4702                                           99,00         11.050,43 D
+27/07/11 0001 124    0 27/07    PG. DESP.REFEICOES CONF.NF-CH.4704                                          740,00         10.310,43 D
+27/07/11 0001 144    0 27/07    PG.DESP.COMBUSTIVEL CONF.CF -CH.4705                                        150,00         10.160,43 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0014
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+28/07/11 0001  56    0 28/07    VL. SAQUE PGTO.DE DESPESAS CONF.CH.4709                                     100,00         10.060,43 D
+28/07/11 0001 111    0 28/07    PG. DIVULGACAO RADIO CLUBE C/NF.CH.4701                                   1.000,00          9.060,43 D
+28/07/11 0001 113    0 28/07    PG. LUCUCAO RADIO CONF.RECIBO-CH.4700                                       545,00          8.515,43 D
+28/07/11 0001 115    0 28/07    PG. DIAGRAMACAO JORNAL SIMMP C/RECIBO-CH.4708                                80,00          8.435,43 D
+28/07/11 0001 119    0 28/07    PG. REFEICOES-CURSO DIRET.SINDICAIS-CH.4706                                 280,00          8.155,43 D
+29/07/11 0001  74    0 29/07    PG. CONVENIO UNIDONTO C/RECIBO-CH.4711                                    1.871,10          6.284,33 D
+29/07/11 0001 101    0 29/07    PG. DIARIAS DE FAXINA CONF.RECIBO-CH.4714                                   140,00          6.144,33 D
+29/07/11 0001 105    0 29/07    PG. IMPRESSAO PAMFLETOS/TALOES/JORNAL-CH.4696                             1.480,00          4.664,33 D
+29/07/11 0001 125    0 29/07    PG. DESP.FOTOCOPIAS CONF.NF-CH.4713                                         480,84          4.183,49 D
+29/07/11 0001 134    0 29/07    PG.DESP.PASSAGEM AEREA CONF .RECIBO-CH.4710                               1.493,90          2.689,59 D
+29/07/11 0001 136    0 29/07    PG.HOSPEDAGEM HOTEL FINIX C /NF-CH.4695                                     113,00          2.576,59 D
+31/07/11 0001 117    0 31/07    PG. REFEICOES-CURSOS FORM.SINDICAL-CH.4707                                   56,00          2.520,59 D
+31/07/11 0001 175    0 31/07    PG. SALARIO EMPREGADOS CONF.FL.PGTO.-D.C/C                                2.719,11            198,52 C
+01/08/11 0001 131    0 01/08    PG. PARCELA SEGURO GOL CONF.D.C/C-CREDCOOP                                  388,63            587,15 C
+02/08/11 0001  64    0 02/08    PG. SUSBSTIT.PROFA.CELMA C/RECIBO-CH.4716                                    40,00            627,15 C
+02/08/11 0001 113   17 02/08    PG. TORTA ENCERRAMENTO CURSO F.SIND-CH.4715                                  85,00            712,15 C
+05/08/11 0001  96    0 05/08    PG.DESP.TELEFONE A TELEMAR -CH4717                                          589,72          1.301,87 C
+08/08/11 0001  38    0 08/08    PG.DEPOSITOS FGTS JUL/11 CONF.GFIP-CH.4721                                  204,12          1.505,99 C
+08/08/11 0001  74    0 08/08    PG. HONORARIOS CONTABEIS C/RECIBO-CH.4719                                   545,00          2.050,99 C
+08/08/11 0001 109   17 08/08    PG.DESP.COMBUSTIVEL CONF.CF -CH.4722                                        120,00          2.170,99 C
+08/08/11 0001 117    0 08/08    PG. SEGURANCA TECNOGUAR C/RECIBO-CH.4718                                    107,08          2.278,07 C
+08/08/11 0001 119    0 08/08    PG. MENSALIDADE DIEESE C/RECIBO-CH.4720                                     431,53          2.709,60 C
+09/08/11 0001  82    0 09/08    PG. COLAGEM DE CARTAZES C/RECIBO-CH.4723                                    200,00          2.909,60 C
+09/08/11 0001 120    0 09/08    VL. RESGATE APLICACAO C/EXTRATO CREDCOOP                2.265,00                              644,60 C
+16/08/11 0001   1    0 16/08     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                    3.927,31                            3.282,71 D
+16/08/11 0001   2    0 16/08     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                    2.220,57                            5.503,28 D
+16/08/11 0001   3    0 16/08     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                   23.809,03                           29.312,31 D
+17/08/11 0001  76    0 17/08    PG. DIARIAS DE FAXINA C/RECIBO-CH.4725                                      175,00         29.137,31 D
+18/08/11 0001  40    0 18/08    PG.CONTR.INSS JUL/11 CONF.GPS-CH.4726                                     1.010,64         28.126,67 D
+18/08/11 0001  44    0 18/08    PG. CONVENIO ATENDE ODONTO C/RECIBO-CH.4727                                 245,72         27.880,95 D
+18/08/11 0001  48    0 18/08    PG. CONVENIO ORALE C/RECIBO-CH.4732                                       7.957,58         19.923,37 D
+18/08/11 0001  54    0 18/08    PG. CONVENIO ODONTO SISTEM C/RECIBO-CH.4730                               4.617,00         15.306,37 D
+18/08/11 0001  56    0 18/08    PG. CONVENIO BELLA ESTETICA C/RECIBO-CH.4733                                684,00         14.622,37 D
+18/08/11 0001  58    0 18/08    PG. CONVENIO CLUBE S.CONQUISTA-CH.4731                                    1.305,00         13.317,37 D
+18/08/11 0001  62    0 18/08    PG. HONORARIO TADEU CINCURA C/RECIBO-CH.4736                              1.635,00         11.682,37 D
+18/08/11 0001  72    0 18/08    PG. HORAS EXTRAS JOSE ADELMO C/FL.PGTO-D.C/C                                196,16         11.486,21 D
+18/08/11 0001  80    0 18/08    PG. CAMISAS DO SIMMP CONF.NF-CH.4728                                        600,00         10.886,21 D
+18/08/11 0001  84    0 18/08    PG. COMUNICACAO RADIO CLUBE C/NF-CH.4737                                  1.000,00          9.886,21 D
+18/08/11 0001  90    0 18/08    PG. PROG.SIMMP NA CIDADE C/RECIBO-CH.4735                                   545,00          9.341,21 D
+18/08/11 0001  99    0 18/08    PG.ENEGIA ELETRICA/AGUA, C/ RECIBO-CH.4729                                  150,20          9.191,01 D
+18/08/11 0001 105    0 18/08    PG.BRINDES PROGR.SIMMP NA C IDADE-CH.4734                                   150,30          9.040,71 D
+18/08/11 0001 111   17 18/08    PG.DESP.COMBUSTIVEL CONF.CF -CH.4738                                        100,00          8.940,71 D
+18/08/11 0001 123    0 18/08    PG. DESP.BANCARIAS C/EXTRATO CREDCOOP                                        16,00          8.924,71 D
+19/08/11 0001 115    0 19/08    PG. COMPL.DESP.DE PASSAGEM C/RECIBO-CH.4739                                 227,22          8.697,49 D
+22/08/11 0001  86    0 22/08    PG. PANFLETAGEM-FEST.INVERNO-CH.4740                                        270,00          8.427,49 D
+22/08/11 0001  88    0 22/08    PG. FAIXAS C/PRIVAT.HOSP.ISAU C/NF-CH.4741                                   65,00          8.362,49 D
+23/08/11 0001   4    0 23/08     VL.DEPOSITO PMVC CONVENIOS DIVERSOS                    4.455,50                           12.817,99 D
+24/08/11 0001 107   17 24/08    PG.DESP.COMBUSTIVEL CONF.CF -CH.4742                                        100,00         12.717,99 D
+25/08/11 0001 125    0 25/08    PG. AQUISICAOM COTAS C/EXTRATO CREDCOOP                                      30,00         12.687,99 D
+29/08/11 0001  50    0 29/08    PG. CONVENIO ODONTO SISTEM C/RECIBO-CH.4743                               1.871,10         10.816,89 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0015
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+30/08/11 0001  70    0 30/08    PG. SALARIO EMPREGADOS CONF.FL.PGTO D.C/C                                 2.719,11          8.097,78 D
+30/08/11 0001  78    0 30/08    PG. BATERIA P/VEICULO CONF.NF-CH.4744                                       220,00          7.877,78 D
+31/08/11 0001  46    0 31/08    PG. CONVENIO ORALE C/RECIBO-CH.4745                                       3.288,90          4.588,88 D
+31/08/11 0001  52    0 31/08    PG. CONVENIO ODONTO SISTEM C/RECIBO-CH.4747                                 553,50          4.035,38 D
+31/08/11 0001  60    0 31/08    PG. CONVENIO CLUBE S.CONQUISTA-CH.4746                                      210,00          3.825,38 D
+31/08/11 0001 101    0 31/08    PG.COLABORACAO ESCOLA/FAMIL C/RECIBO-CH.4748                                 50,00          3.775,38 D
+31/08/11 0001 103    0 31/08    PG.DOACAO CIRCULO ESC.INTEG RADO-CH.4749                                     50,00          3.725,38 D
+31/08/11 0001 127    0 31/08    PG. JUROS S/SALDO DEVEDOR C/C CREDCOOP                                        5,42          3.719,96 D
+31/08/11 0001 133    0 31/08    PG. PARCELA SEGURO GOL CONF.D.C/C-CREDCOOP                                  388,63          3.331,33 D
+01/09/11 0001 133    0 01/09    PG. DESP.COMBUSTIVEL CONF.CF-CH.4757                                         60,00          3.271,33 D
+01/09/11 0001 145    0 01/09    PG. VIAGENS SEMINARIO FORCA.SINDICAL-CH.4751                                370,00          2.901,33 D
+01/09/11 0001 167    0 01/09    PG. IOF CONF. EXTR-CREDCOOP                                                   8,21          2.893,12 D
+04/09/11 0001 135    0 04/09    PG. DESP.COMBUSTIVEL CONF.CF-CH.4813                                        110,00          2.783,12 D
+06/09/11 0001  61    0 06/09    PG.DEPS.FGTS/INSS -AGO/AGO/11 C/GR-CH.4724                                1.214,76          1.568,36 D
+06/09/11 0001  67    0 06/09    PG.LUCIENE D.WEST DEV.DESC.INDEVIDO-CH.4754                                 178,20          1.390,16 D
+06/09/11 0001  95    0 06/09    PG. TELEMAR/TECNOGUAR/CONTABILIDADE-CH.4752                               1.225,57            164,59 D
+06/09/11 0001 103    0 06/09    PG.DIARIAS DE LIMPEZA C/ RECIBO-CH.4753                                     175,00             10,41 C
+06/09/11 0001 137    0 06/09    PG. DESP.COMBUSTIVEL CONF.CF-CH.4755                                        200,00            210,41 C
+06/09/11 0001 143    0 06/09    PG. DESP.SUCOS P/CURSO FORM.SINDICAL-CH.4756                                 59,00            269,41 C
+08/09/11 0001  98    0 08/09    PG.DESP.AGUA/DIEESE CONF RECIBOS-CH.4758                                    513,07            782,48 C
+09/09/11 0001  79    0 09/09    PG. SUBST.PROF.CELMA C/RECICBO-CH.4759                                       40,00            822,48 C
+12/09/11 0001   2    0 12/09     VL.DEPOSITO CHS.PMVC-CREDCOOP C/RECIBO                 2.313,42                            1.490,94 D
+12/09/11 0001   3    0 12/09     VL.DEPOSITO CHS.PMVC-CREDCOOP C/RECIBO                 3.716,71                            5.207,65 D
+13/09/11 0001   4    0 13/09     VL.DEPOSITO CHS.PMVC-CREDCOOP C/RECIBO                35.911,48                           41.119,13 D
+14/09/11 0001   1    0 14/09     VL.DEPOSITO CHS.PMVC-CREDCOOP C/RECIBO                 4.455,50                           45.574,63 D
+19/09/11 0001  71    0 19/09    PG. CONVENIO ODONTO SISTEM C/RECIBO-CH.4784                               4.657,50         40.917,13 D
+19/09/11 0001  73    0 19/09    PG. CONVENIO BELA ESTETICA C/RECIBO-CH.4786                                 783,00         40.134,13 D
+19/09/11 0001  75    0 19/09    PG. CONVENIO CLUBE S.CONQUISTA C/REC-CH.4783                              1.290,00         38.844,13 D
+19/09/11 0001  77    0 19/09    PG. HONORARIO TADEU CINCURA C/RECICBO-CH.4791                             1.635,00         37.209,13 D
+19/09/11 0001 115    0 19/09    PG. MATR.ESCRITORIO/LIVRETOS C/NF-CH.4787                                 2.735,00         34.474,13 D
+19/09/11 0001 117    0 19/09    PG. PUBLICIDADE RADIO CLUBE C/NF-CH.4790                                  1.000,00         33.474,13 D
+19/09/11 0001 119    0 19/09    PG. LOCUCAO RADIO CIDADE C/RECIBO-CH.4789                                   545,00         32.929,13 D
+19/09/11 0001 123    0 19/09    PG.ENEGIA ELETRICA · COELBA C/RECIBO-4788                                    68,91         32.860,22 D
+19/09/11 0001 125    0 19/09    PG.DONATIVOS PROF.ENIVALDA  S.ROCHA-4781                                 11.417,89         21.442,33 D
+19/09/11 0001 129    0 19/09    PG.DESP.COMBUSTIVEIS CONF.C F-CH.4760                                       120,00         21.322,33 D
+19/09/11 0001 153    0 19/09    PG. ALUGUEL CL.SOCIAL-DIA PROFESSOR-CH.4782                               1.500,00         19.822,33 D
+20/09/11 0001  17    0 20/09    VL.CHEQUE 4 793 CREDCOOP P/PGTO.DESPESAS                                  2.000,00         17.822,33 D
+20/09/11 0001  65    0 20/09    PG.CONVENIO ORALE C/RECIBO-CH.4785                                        8.272,98          9.549,35 D
+20/09/11 0001 105    0 20/09    PG.DIARIAS DE LIMPEZA C/ RECIBO-CH.4792                                     140,00          9.409,35 D
+20/09/11 0001 151    0 20/09    PG. DESP.PARTICIP.CONF.EST.TRABALHO-CH.4794                                 100,00          9.309,35 D
+22/09/11 0001 100    0 22/09    PG.ALUGUEL SALAO CONF.RE CIBO-CH.4795                                       200,00          9.109,35 D
+22/09/11 0001 101    0 22/09    PG.ALUGUEL SALAO CONF.RE CIBO-CH.4796                                       250,00          8.859,35 D
+23/09/11 0001 107    0 23/09    PG.SERV.REFORMA SEDE CON F.RECIBO-CH.4798                                   300,00          8.559,35 D
+23/09/11 0001 131    0 23/09    PG.TROCA DE OLEO/FILTRO CON F NF-CH.4797                                     90,00          8.469,35 D
+25/09/11 0001 161    0 25/09    VL. AQUISICAO COTAS CREDCOOP C/EXTRATO                                       30,00          8.439,35 D
+26/09/11 0001 139    0 26/09    PG. DESP.COMBUSTIVEL CONF.CF-CH.4799                                         80,00          8.359,35 D
+28/09/11 0001  63    0 28/09    PG.CONVENIO POLIC ARD CONF.RECIBO-CH.4801                                   245,72          8.113,63 D
+28/09/11 0001  69    0 28/09    PG. CONVENIO UNIDONTO CONF.RECIBO-CH.4803                                 2.073,55          6.040,08 D
+28/09/11 0001 110    0 28/09    PG. MATR.CAFE/LANCHES/LIMPEZA C/CF-CH.4805                                  162,00          5.878,08 D
+28/09/11 0001 112    0 28/09    PG. SERV.PEDREIRO-REFORMA SEDE-CH.4804                                      500,00          5.378,08 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0016
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+28/09/11 0001 121    0 28/09    PG. DESP.FOTOCOPIAS CONF.N.FISCAL-CH.4802                                   754,95          4.623,13 D
+28/09/11 0001 149    0 28/09    PG. PASSAGEM AEREA-FORM.SINDICAL-CH.4800                                    922,10          3.701,03 D
+29/09/11 0001 127    0 29/09    PG.MATR.ESCRITORIO CONF.NF. CH-4807                                         129,65          3.571,38 D
+29/09/11 0001 147    0 29/09    PG. REFEICOES CURSO FORM.SINDICAL-CH.4806                                   640,00          2.931,38 D
+29/09/11 0001 163    0 29/09    PG. LICENCIAMENTO DE VEICULO C/EXTR-CREDCOOP                                388,63          2.542,75 D
+29/09/11 0001 165    0 29/09    PG. DESP.BANCARIAS CONF. EXTR-CREDCOOP                                       14,00          2.528,75 D
+30/09/11 0001  15    0 30/09    VL.CHEQUE 4 808 CREDCOOP P/PGTO.DESPESAS                                    500,00          2.028,75 D
+30/09/11 0001  58    0 30/09    PG. REFEICAO/COMBUST.CURSO F.SINDICAL-CH.4810                               101,47          1.927,28 D
+30/09/11 0001  85    0 30/09    PG. SALARIO/V.TRANSP.SAL.FAMILIA C/D.CONTA                                2.719,11            791,83 C
+30/09/11 0001  88    0 30/09    PG. H.EXTRAS/ALMOCO MOTORISTA C/NOTAS                                        53,00            844,83 C
+30/09/11 0001 141    0 30/09    PG. HOSPEDAGEM PROFESSO CURSO F.SIND.CH.4809                                100,00            944,83 C
+30/09/11 0001 169    0 30/09    PG. JUROS CONF. EXTR-CREDCOOP                                                 0,67            945,50 C
+03/10/11 0001 129    0 03/10    PG. IOF CONF.EXTRATO CREDCOOP                                                 1,26            946,76 C
+05/10/11 0001  25    0 05/10    PG. CONVENIO ODONTO SISTEM C/RECIBO-CH.4814                                 540,00          1.486,76 C
+05/10/11 0001 123    0 05/10    PG. SEGURANCA TECNOGUARD C/RECIBO-CH.4815                                   115,64          1.602,40 C
+06/10/11 0001  19    0 06/10    PG.DEPOSITOS FGTS SET/11 C/GFIP-CH.4816                                     204,12          1.806,52 C
+06/10/11 0001  43    0 06/10    PG. SUBSTIT.PROF.CELMA MARIA C/RECIBO-CH.4818                                40,00          1.846,52 C
+06/10/11 0001  45    0 06/10    PG. HONORARIOS CONTABEIS CONF.RECIBO-CH.4817                                545,00          2.391,52 C
+07/10/11 0001  47    0 07/10    PG. SERV.REFORMA SEDE SIMMP C/RECIBO-CH.4820                                500,00          2.891,52 C
+07/10/11 0001  87    0 07/10    PG. DESP.COMBUSTIVEL CONF.C/CF-CH.4819                                      100,00          2.991,52 C
+09/10/11 0001 117    0 09/10    PG. DECORACAO SALAO DIA DO PROFESSOR-CH.4811                              1.000,00          3.991,52 C
+11/10/11 0001   2    0 11/10    VL.DEPOSITO CHS.PMVC-CREDCOOP C/RECIBO                 25.790,78                           21.799,26 D
+11/10/11 0001   3    0 11/10    VL.DEPOSITO CHS.PMVC-CREDCOOP C/RECIBO                  3.168,94                           24.968,20 D
+11/10/11 0001   4    0 11/10    VL.DEPOSITO CHS.PMVC-CREDCOOP C/RECIBO                  2.272,57                           27.240,77 D
+11/10/11 0001  51    0 11/10    PG. SERV.DE FAXINA CONF.RECIBO-CH.4822                                      245,00         26.995,77 D
+11/10/11 0001 101    0 11/10    PG. TORTA P/CURSO FORM.PROFESOR-CH.4821                                      95,00         26.900,77 D
+11/10/11 0001 142    0 11/10    VL.RESGATE APLICACAO C/ EXTRTATO CREDCOOP               5.000,00                           31.900,77 D
+14/10/11 0001  29    0 14/10    PG. CONVENIO CLUBE S.CONAUISTA-CH.4824                                    1.500,00         30.400,77 D
+14/10/11 0001  49    0 14/10    PG. SERV.REFORMA SEDE SIMMP C/RECIBO-CH.4823                                500,00         29.900,77 D
+14/10/11 0001  83    0 14/10    PG. MATR.DE ESCRITORIO CONF.NF-CH.4825                                      137,95         29.762,82 D
+15/10/11 0001 103    0 15/10    PG. SALGADOS DIA DO PROFESOR-C/RECIBO-CH.4812                             1.350,00         28.412,82 D
+15/10/11 0001 105    0 15/10    PG. SALGADOS DIA DO PROFESOR-C/RECIBO-CH.4828                             1.350,00         27.062,82 D
+15/10/11 0001 111    0 15/10    PG. BANDA DIA DO PROFESOR-C/RECIBO-CH.4827                                  300,00         26.762,82 D
+15/10/11 0001 113    0 15/10    PG. SEGURANCA/GARCONS DIA PROFESOR-CH.4829                                  150,00         26.612,82 D
+17/10/11 0001  35    0 17/10    PG. H.EXTRAS JOSE ADELMO C/RECIBO-CH.4833                                   154,75         26.458,07 D
+17/10/11 0001 107    0 17/10    PG. BANDA DIA DO PROFESOR-C/RECIBO-CH.4832                                  400,00         26.058,07 D
+17/10/11 0001 109    0 17/10    PG. DESP.SOM DIA DO PROFESOR-C/RECIBO-CH.4831                               600,00         25.458,07 D
+17/10/11 0001 115    0 17/10    PG. BANDA DIA PROFESSOR C/RECIBO-CH.4830                                    300,00         25.158,07 D
+18/10/11 0001   1    0 18/10    VL.DEPOSITO CHS.PMVC-CREDCOOP C/RECIBO                  4.380,50                           29.538,57 D
+18/10/11 0001  15    0 18/10    VL. SAQUE CH.4826 P/PAGAMENTO DESPESAS                                    1.500,00         28.038,57 D
+18/10/11 0001  17    0 18/10    PG.CONTR.INSS SET/11 CONF.GPS-CH.4838                                     1.010,63         27.027,94 D
+18/10/11 0001  23    0 18/10    PG. CONVENIO ORALE CONF.RECIBO-CH.4836                                   11.561,88         15.466,06 D
+18/10/11 0001  27    0 18/10    PG. CONVENIO BELA ESTETICA C/RECIBO-CH.4835                               1.317,25         14.148,81 D
+18/10/11 0001  31    0 18/10    PG. HONORARIOS TADEU CINCURA C/RECIBO-CH.4839                             1.635,00         12.513,81 D
+18/10/11 0001  59    0 18/10    PG. PEDRA GRANITO SEDE SIMMP C/CF-CH.4845                                    57,00         12.456,81 D
+18/10/11 0001  65    0 18/10    PG. COMUNIC.RADIO CIDADE C/RECIBO-CH.4842                                   545,00         11.911,81 D
+18/10/11 0001  67    0 18/10    PG. EDITAL P/ELEICAO CONF.N.FISCAL-CH.4840                                  250,00         11.661,81 D
+18/10/11 0001  71    0 18/10    PG.DESP.TELEFONE A TELEMAR C/RECIBOS-CH.4852                                693,69         10.968,12 D
+18/10/11 0001  76    0 18/10    PG.ENEGIA ELETRICA/AGUA CON F.RECIBO-CH.4841                                159,35         10.808,77 D
+18/10/11 0001  93    0 18/10    PG. DESP.COMBUSTIVEL CONF.C/CF-CH.4834                                       50,00         10.758,77 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0017
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+18/10/11 0001  95    0 18/10    PG. DESP.PASSAGEM AEREA C/RECIBO-CH.4837                                    500,00         10.258,77 D
+18/10/11 0001  99    0 18/10    PG. ORNAMENTACAO CLUBE DIA PROFESOR-CH.4844                               1.000,00          9.258,77 D
+19/10/11 0001  57    0 19/10    PG. MATR.P/REFORMA SEDE SIMMP C/NF-CH.4846                                  370,00          8.888,77 D
+19/10/11 0001  69    0 19/10    PG. PUBLICIDADE R.CLUBE CONF.NF.-CH.4843                                  1.000,00          7.888,77 D
+19/10/11 0001  91    0 19/10    PG. DESP.COMBUSTIVEL CONF.C/CF-CH.4847                                       50,00          7.838,77 D
+21/10/11 0001  33    0 21/10    PG. SUBST.PROF.CELMA SOARES C/RECIBO-CH.4853                                 40,00          7.798,77 D
+21/10/11 0001  53    0 21/10    PG. SERV.REFORMA SEDE SIMMP C/RECIBO-CH.4850                                500,00          7.298,77 D
+21/10/11 0001  55    0 21/10    PG. SERV.FAXINA CONF.RECIBO-CH.4851                                          70,00          7.228,77 D
+21/10/11 0001  73    0 21/10    PG.REFIL PURIFICADOR AGUA  C/NOTA-CH.4849                                   120,00          7.108,77 D
+21/10/11 0001 125    0 21/10    VL. SAQUE CH.4848 P/PGTO.DE DESPESAS                                        250,00          6.858,77 D
+24/10/11 0001 119    0 24/10    PG. SEGURANCA TECNOGUARD C/RECIBO-CH.4854                                   320,00          6.538,77 D
+25/10/11 0001  97    0 25/10    PG. CERVEJA/REFRIG.DIA PROF C/NF-CH.4855                                  1.415,50          5.123,27 D
+25/10/11 0001 131    0 25/10    PG. AQUISICAO COTRAS COTAS CREDCOOP C/EXTRATO                                30,00          5.093,27 D
+27/10/11 0001  61    0 27/10    PG. PORTA/JANELA P/SEDE SIMMP C/NF-CH.4856                                  890,00          4.203,27 D
+27/10/11 0001 121    0 27/10    PG. SEGURANCA P.ELEOTORAL C/RECIBO-CH.4858                                  240,00          3.963,27 D
+28/10/11 0001  63    0 28/10    PG. BOTOES P/MURAL CONF.NF-CH.4863                                           60,00          3.903,27 D
+28/10/11 0001  78    0 28/10    PG.CHAPA-1 CAMP.ELEITORAL C /RECIBO-CH.4857                                 300,00          3.603,27 D
+28/10/11 0001  80    0 28/10    PG.CHAPA-2 CAMP.ELEITORAL C /RECIBO-CH.4859                                 300,00          3.303,27 D
+28/10/11 0001  89    0 28/10    PG. DESP.COMBUSTIVEL CONF.C/CF-CH.4861                                       30,00          3.273,27 D
+31/10/11 0001  21    0 31/10    PGCONVENIO ATENDE ODONTO C/RECIBO-CH.4862                                   245,72          3.027,55 D
+31/10/11 0001  41    0 31/10    PG. FL.PAGAMENTO EMPREGADOS C/DEB.C/C                                     2.719,11            308,44 D
+31/10/11 0001 128    0 31/10    PG. DESP.BANCARIIAS CONF.EXTRATO CREDCOOP                                     8,97            299,47 D
+31/10/11 0001 133    0 31/10    PG. DESP.LICENCIAMENTO VEICULO C/EXTRATO                                    388,63             89,16 C
+01/11/11 0001 154    0 01/11    PG. CONFECCAO CEDULAS ELETORAIS C/NF-CH.4878                                140,00            229,16 C
+01/11/11 0001 168    0 01/11    PG. IOF CONF.EXTRATO CREDCOOP                                                 5,69            234,85 C
+03/11/11 0001  99    0 03/11    PG. CONVENIO ODONTO SISTEM DIF.OUT/CH.4860                                  380,00            614,85 C
+03/11/11 0001 101    0 03/11    PG. CONVENIO ODONTO SISTEM DIF.OUT/CH.4860                                  472,50          1.087,35 C
+03/11/11 0001 137    0 03/11    PG.SERV.FAXINA CONF.RECIBO -CH.4867                                         140,00          1.227,35 C
+03/11/11 0001 158    0 03/11    PG. DESP.DE COMBUSTIVEL CONF.CF-CH.4864                                      40,00          1.267,35 C
+04/11/11 0001 145    0 04/11    PG.REFEICOES PROCESSO ELEI TORAL C/NF-CH.4868                               160,00          1.427,35 C
+07/11/11 0001  81    0 07/11    PG.DEPOSITOS FGTS OUT/11 CONF.GFIP-CH.4871                                  204,12          1.631,47 C
+07/11/11 0001 117    0 07/11    PG. SUBST.PROF.CELMA SOARES C/RECIBO-CH.4872                                 40,00          1.671,47 C
+07/11/11 0001 121    0 07/11    PG.DESP.TELEFONE/CONTADOR/ TECNOGUARD-CH.4870                               911,24          2.582,71 C
+07/11/11 0001 133    0 07/11    PG.MATR.DE CONSTRUCAO CONF .CF-CH.4876                                      131,00          2.713,71 C
+07/11/11 0001 139    0 07/11    PG.PORTA PARA SEDE CONF.NF -CH.4874                                         110,00          2.823,71 C
+07/11/11 0001 149    0 07/11    PG.DESP.TELEFONE A TELEMAR C/RECIBO-CH.4877                                 352,83          3.176,54 C
+07/11/11 0001 156    0 07/11    PG. DESP.DE COMBUSTIVEL CONF.CF-CH.4873                                      50,00          3.226,54 C
+07/11/11 0001 166    0 07/11    PG. MENSALIDADE DIEESE CONF.RECIBO-CH.4875                                  431,53          3.658,07 C
+11/11/11 0001 115    0 11/11    PG. HORAS EXTRAS MOROTISTA C/RECIBO-D.C/C                                   314,17          3.972,24 C
+11/11/11 0001 123    0 11/11    PG.PEDREIRO REFORMA SEDE C /RECIBO-CH.4762                                1.000,00          4.972,24 C
+11/11/11 0001 169    0 11/11    VL. RESGATE APLICACAO CONF.EXTRATO CREDCOOP             5.947,83                              975,59 D
+11/11/11 0001 188    0 11/11    PG.SUBST.PROF.CELMA SOA RES C/RECIBO-CH.4853                                 40,00            935,59 D
+16/11/11 0001   3    0 16/11    VL.DEPOSITO CHS.PMVC-CONVENIOS DIVERSOS                 3.196,44                            4.132,03 D
+16/11/11 0001   4    0 16/11    VL.DEPOSITO CHS.PMVC-CONVENIOS DIVERSOS                 2.257,57                            6.389,60 D
+16/11/11 0001   5    0 16/11    VL.DEPOSITO CHS.PMVC-CONVENIOS DIVERSOS                25.892,26                           32.281,86 D
+17/11/11 0001  89    0 17/11    PG. CONVENIO ODONTOSISTEM C/RECIBO-CH.4764                                4.779,00         27.502,86 D
+17/11/11 0001 152    0 17/11    PG. DESP.AGUA E LUZ CONF.RECIBOS-CH.4768                                    152,36         27.350,50 D
+18/11/11 0001  19    0 18/11    VL. CH.4761 P/PAGAMENTO DE DESPESAS                                         750,00         26.600,50 D
+18/11/11 0001  79    0 18/11    PG.CONTR.INSS OUT/11 CONF.GPS-CH.4880                                     1.010,63         25.589,87 D
+18/11/11 0001  93    0 18/11    PG. CONVENIO BELLA ESTETICA C/RECIBO-CH.4766                              1.432,75         24.157,12 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0018
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+18/11/11 0001  95    0 18/11    PG. CONVENIO CLUBE S.CONQUISTA-CH.4767                                    1.230,00         22.927,12 D
+18/11/11 0001  97    0 18/11    PG. DEV.DESC.INDEVIDO-GERALDO ROCHA-CH.4775                                  45,00         22.882,12 D
+18/11/11 0001 143    0 18/11    PG.COMUNICACAO RADIO CLUBE  C/NF-CH.4770                                  1.000,00         21.882,12 D
+18/11/11 0001 162    0 18/11    PG. SEGURANCA C/RECIBO TECNOGUARD-CH.4776                                   160,00         21.722,12 D
+18/11/11 0001 164    0 18/11    PG. CAMISA P/SERV.ELEITORAL C/RECIBO-CH.4772                                260,00         21.462,12 D
+21/11/11 0001  85    0 21/11    PG. CONVENIO ORALE C/DEPOSITO-CH4765                                      8.158,98         13.303,14 D
+21/11/11 0001  87    0 21/11    PG. CONVENIO ORALE C/DEPOSITO-CH.4879                                     3.288,90         10.014,24 D
+21/11/11 0001 113    0 21/11    PG. HONORARIO TADEU CINCURA C/RECIBO-CH.4771                              1.635,00          8.379,24 D
+21/11/11 0001 141    0 21/11    PG.PROGRM.SIMMP NA CIDADE  C/RECIBO-CH.4769                                 545,00          7.834,24 D
+22/11/11 0001 125    0 22/11    PG.PEDREIRO REFORMA/PINTUR A SEDE-CH.4774                                 1.150,00          6.684,24 D
+22/11/11 0001 127    0 22/11    PG.SERV.FAXINA CONF.RECIBO -CH.4773                                         105,00          6.579,24 D
+22/11/11 0001 129    0 22/11    PG.MATR.DE CONSTRUCAO CONF .NF-CH.4763                                      500,00          6.079,24 D
+22/11/11 0001 147    0 22/11    PG. DESP.FOTOCOPIAS CONF.NF.-CH.4779                                        692,23          5.387,01 D
+24/11/11 0001   6    0 24/11    VL.DEPOSITO CHS.PMVC-CONVENIOS DIVERSOS                 4.212,00                            9.599,01 D
+25/11/11 0001 186    0 25/11    PG.AQUISICAO COTAS CONF EXTRATO CREDCOOP                                     30,00          9.569,01 D
+28/11/11 0001  17    0 28/11    VL. CH.4780 P/PAGAMENTO DE DESPESAS                                       1.500,00          8.069,01 D
+29/11/11 0001 172    0 29/11    VL. TAXA BANCARIA CONF.EXTRATO CREDCOOP                                       3,00          8.066,01 D
+30/11/11 0001 111    0 30/11    PG. SALARIO EMPREGADOS CONF.FL.PGTO.D.C/C                                 2.719,12          5.346,89 D
+30/11/11 0001 135    0 30/11    PG.SERV.PEDREIRO E PINTURA SEDE-CH.4865                                     700,00          4.646,89 D
+30/11/11 0001 174    0 30/11    PG. LICENCIAMENTO DE VEICULO C/EXTRATO                                      388,58          4.258,31 D
+30/11/11 0001 176    0 30/11    PG. JUROS S/SALDO DEVEDOR C/EXTRATO CREDCOOP                                 27,68          4.230,63 D
+01/12/11 0001 126    0 01/12    PG. IOF C/EXTRATO CREDCOOP                                                   12,52          4.218,11 D
+02/12/11 0001  93    0 02/12    PG.PARCELA-2 13. SALARIO C/FL.PAGAMENTO                                   1.071,68          3.146,43 D
+02/12/11 0001  95    0 02/12    PG.H.EXTRA JOSE  ADELMO C/FL.PAGAMENTO                                       96,01          3.050,42 D
+02/12/11 0001 125    0 02/12    PG. DESP.DESP.BANCARIAS C/EXTRATO CREDCOOP                                   24,00          3.026,42 D
+07/12/11 0001  86    0 07/12    VL. SAQUE P/DESPESAS CONF.CH.4869                                         1.250,00          1.776,42 D
+07/12/11 0001 128    0 07/12    PG. TED P/C/C CAIXA E.FEDERAL C/EXTRATO                                   1.500,00            276,42 D
+13/12/11 0001   1    0 13/12     VL.DEPOSITO PMVC-CONVENIOS DIVERSOS                    2.257,57                            2.533,99 D
+13/12/11 0001   3    0 13/12     VL.DEPOSITO PMVC-CONVENIOS DIVERSOS                    3.295,94                            5.829,93 D
+13/12/11 0001  84    0 13/12    VL. SAQUE P/DESPESAS CONF.CH.4881                                         1.000,00          4.829,93 D
+14/12/11 0001   4    0 14/12    RECEBIMENTO TED PMVC-CONVENIOS DIVERSOS                 4.731,20                            9.561,13 D
+14/12/11 0001   5    0 14/12    RECEBIMENTO TED PMVC-CONVENIOS DIVERSOS                 5.175,00                           14.736,13 D
+14/12/11 0001   6    0 14/12    RECEBIMENTO TED PMVC-CONVENIOS DIVERSOS                12.051,52                           26.787,65 D
+14/12/11 0001   7    0 14/12    RECEBIMENTO TED PMVC-CONVENIOS DIVERSOS                    28,84                           26.816,49 D
+14/12/11 0001   8    0 14/12    RECEBIMENTO TED PMVC-CONVENIOS DIVERSOS                   780,00                           27.596,49 D
+14/12/11 0001   9    0 14/12    RECEBIMENTO TED PMVC-CONVENIOS DIVERSOS                    94,52                           27.691,01 D
+14/12/11 0001  10    0 14/12    RECEBIMENTO TED PMVC-CONVENIOS DIVERSOS                 1.916,75                           29.607,76 D
+14/12/11 0001 122    0 14/12    VL. CREDITO DOC PELA PMVC-PGTO.DE CONVENIOS             1.513,45                           31.121,21 D
+15/12/11 0001  90    0 15/12    PG. HONORARIO TADEU CINCURA C/RECIBO-CH.4888                              1.635,00         29.486,21 D
+15/12/11 0001  97    0 15/12    PG. MENSALIDADE RADIO CIDADE C/RECIBO-CH.4887                               545,00         28.941,21 D
+15/12/11 0001 101    0 15/12    PG. EQUIP.SOM-POSSE NOVA DIRETORIA-CH.4885                                  250,00         28.691,21 D
+15/12/11 0001 103    0 15/12    PG. APRESENTACAO MUSICAL-POSSE CH.4884                                      200,00         28.491,21 D
+15/12/11 0001 105    0 15/12    PG. BUFFET POSSE NOVA DIRETORIA C/NF-CH.4977                              5.700,00         22.791,21 D
+15/12/11 0001 109    0 15/12    PG. CONVENIO ATENDE ODONTO C/RECIBO-CH.4883                                  94,52         22.696,69 D
+15/12/11 0001 111    0 15/12    PG. CONVENIO ORALE C/RECIBO-CH.4978                                       8.050,68         14.646,01 D
+15/12/11 0001 113    0 15/12    PG. CONVENIO ODONTO SISTEM C/RECIBO-CH.4980                               4.954,50          9.691,51 D
+15/12/11 0001 117    0 15/12    PG. CONVENIO CLUBE S.CONQUISTA-CH.4979                                    1.275,00          8.416,51 D
+15/12/11 0001 119    0 15/12    PG. CONVENIO CLUBE S.CONQUISTA-CH.4890                                      210,00          8.206,51 D
+15/12/11 0001 121    0 15/12    VL. SAQUE P/PAGAMENTO DESPESAS-CH.4889                                      500,00          7.706,51 D
+16/12/11 0001   2    0 16/12     VL.DEPOSITO PMVC-CONVENIOS DIVERSOS                    4.410,50                           12.117,01 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0019
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102001-3:0002-CREDCOOP-C/CORRENTE                                                           PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+16/12/11 0001 115    0 16/12    PG. CONVENIO BELA ESTETICA C/RECIBO-CH.4882                               1.890,45         10.226,56 D
+18/12/11 0001  82    0 18/12    VL. SAQUE P/DESPESAS CONF.CH.4777                                           100,00         10.126,56 D
+19/12/11 0001  99    0 19/12    PG. MENSALIDADE RADIO CLUBE C/NF-CH.4886                                  1.000,00          9.126,56 D
+                                                                               ----------------- -----------------
+                              Totais .....................................:           501.716,58        494.177,40
+========================================================================================================================================
+   CONTA: 10102002-1:0003-CAIXA ECONOMICA FEDERAL-C/C                                                   PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+    297627.17                 Saldo Inicial ..............................:               689,05
+25/01/11 0001  66    0 25/01    PG.TAXA MANUTENCAO  C/C CONF.EXTRATO CEF                                     15,00            674,05 D
+10/02/11 0001  21    0 10/02    VL.DEPOSITO CEF-REF.CAUSA CSPB CONF.RECIBO             68.644,75                           69.318,80 D
+16/02/11 0001  23    0 16/02    VL.DEPOSITO CEF CONF.RECIBO                                29,00                           69.347,80 D
+25/02/11 0001  26    0 25/02    PG. PAXSA MANAUT.C/C ORRENTE CEF                                             15,00         69.332,80 D
+01/03/11 0001 144    0 01/03    VL. APLICACAO CAIXA E.FEDERAL C/EXTRATO                                  63.000,00          6.332,80 D
+16/03/11 0001 145    0 16/03    VL. DEPOSITO CAIXA E.FEDERAL C/EXTRATO                     10,00                            6.342,80 D
+25/03/11 0001 148    0 25/03    PG. DESP.BANCARIAS C/EXTRATO CEF                                             15,00          6.327,80 D
+07/04/11 0001  21    0 07/04    VL.DEPOSITO CEF C/RECIBO                                  400,00                            6.727,80 D
+07/04/11 0001 108    0 07/04    PG. PASTAS CURSO REPRESENT.SIND-CH.1250                                     370,00          6.357,80 D
+15/04/11 0001 105    0 15/04    PG. DESP.LANCHES REPRESENTANTES SIND-CH.2351                                 73,90          6.283,90 D
+15/04/11 0001 153    0 15/04    VL. DEPOSITO CEF CONF.EXTRATO                              18,00                            6.301,90 D
+19/04/11 0001   8    0 19/04    VL.DEPOSITO CEF-PMVC CANDIDO SALES CFS                    200,00                            6.501,90 D
+19/04/11 0001 110    0 19/04    PG. DESP.PALESTRANTE CURSO F.SINDICAL-CH.2354                               997,00          5.504,90 D
+19/04/11 0001 122    0 19/04    PG. REFEICOES-CAMP.SALARIAL C/NF-CH.2353                                    360,00          5.144,90 D
+25/04/11 0001 156    0 25/04    PG. DESP.BANCARIAS CONF.EXTRATO CEF                                          43,50          5.101,40 D
+26/04/11 0001   1    0 26/04    RECEBIMENTO CONTR.SINDICAL CONF.RECIBO                 27.720,49                           32.821,89 D
+28/04/11 0001 124    0 28/04    PG. REFEICOES-CAMP.SALARIAL C/NF-CH.2352                                    610,00         32.211,89 D
+28/04/11 0001 158    0 28/04    PG. DESP.BANCARIAS CONF.EXTRATO CEF                                          12,40         32.199,49 D
+02/05/11 0001 233    0 02/05    PG. DESP.COMBISTIVEL CONF.CF-CH.2359                                         40,00         32.159,49 D
+02/05/11 0001 235    0 02/05    PG. REFR/AGUA/MATR ENCONTRO 01/MAIO-CH.2358                                 139,46         32.020,03 D
+02/05/11 0001 237    0 02/05    PG. MENSALIDADE DIEESE CONF.RECIBO-CH.2357                                  401,42         31.618,61 D
+02/05/11 0001 239    0 02/05    PG. ASSIN.JORNAL A TARDE C/RECIBO-CH.2356                                   104,25         31.514,36 D
+02/05/11 0001 241    0 02/05    PG. SEGURANCA TECNOGUARDE C/RECIBO-CH.2355                                  107,08         31.407,28 D
+03/05/11 0001   1    0 03/05     VL.RESGATE APLICACAO CEF C/EXTRATO                                      10.000,00         21.407,28 D
+03/05/11 0001 231    0 03/05    PG. DESP.COMBISTIVEL CONF.CF-CH.2360                                        120,00         21.287,28 D
+04/05/11 0001  94    0 04/05    PG. CONVENIO UNIDONTO MAIS JUROS-CH.2361                                  2.134,81         19.152,47 D
+11/05/11 0001 229    0 11/05    PG. REFEICOES COMISSAO NEGOCIACAO-CH.2362                                   275,00         18.877,47 D
+12/05/11 0001 247    0 12/05    PG. MANUT.AR CONDICIONADO VEICULO-CH.2363                                    90,00         18.787,47 D
+16/05/11 0001  12    0 16/05     VL.DEPOSITO CEF C ONF.RECIBO                              24,00                           18.811,47 D
+18/05/11 0001 245    0 18/05    PG. REFEICOES CURSOS FORM.SINDICAL-CH.2364                                  230,00         18.581,47 D
+20/05/11 0001 249    0 20/05    PG. VEICULO TAWNER 2010/11 COR PRATA-CH.2365                             33.000,00         14.418,53 C
+23/05/11 0001  14    0 23/05     VL.RESGATE APLICACAO CEF CONF.EXTRATO                 50.000,00                           35.581,47 D
+25/05/11 0001 243    0 25/05    PG. DESP.CARRRO SOM CAMP.SALARIAL-CH.2366                                   288,00         35.293,47 D
+25/05/11 0001 251    0 25/05    PG. DESP.BANCARIAS CONF.EXTRATO CEF                                          51,30         35.242,17 D
+03/06/11 0001   2    0 03/06     VL.TRANSF.TED CREDCOOP C/RECIBO                                         15.000,00         20.242,17 D
+03/06/11 0001   9    0 03/06     PG.DESP.BANCARIAS TED CONF.RECIBO CEF                                       13,50         20.228,67 D
+03/06/11 0001 247    0 03/06    VL. APLICACAO AP EXECUT-CEF                                              20.000,00            228,67 D
+27/06/11 0001 249    0 27/06    PG. DESP.BANCARIAS CONF.EXTRATO-CEF                                          20,30            208,37 D
+30/06/11 0001 250    0 30/06    VL. TRANSF.ELETRONICA                                      24,01                              232,38 D
+25/07/11 0001  54    0 25/07    PG. DESP.BANCARIAS CONF.EXTRATO-CEF                                          20,30            212,08 D
+  SIMMP-VC         SIMMP-VC         SIMMP-VC                      EMISSAO: 01/06/2012                   FOLHA:0020
+================================================================================
+              RAZAO ANALITICO 
+================================================================================
+   CONTA: 10102002-1:0003-CAIXA ECONOMICA FEDERAL-C/C                                                   PERIODO:01/01/2011 A 31/12/2011
+----------------------------------------------------------------------------------------------------------------------------------------
+  DATA   LOTE LAN C.P. DT.DOCTO HISTORICO                                                 DEBITO           CREDITO       SALDO ATUAL
+25/08/11 0001 129    0 25/08    PG. DESP.BANCARIAS CONF.EXTRATO CEF                                          20,30            191,78 D
+30/09/11 0001 159    0 30/09    PG. DESP.BANCARIAS CONF.EXTRATO CEF                                          20,30            171,48 D
+14/10/11 0001 141    0 14/10    PG.ASSIN.REVISTA ISTO E C/EXTRTATO CEF                                       61,50            109,98 D
+30/10/11 0001 139    0 30/10    PG.DESP.BANCARIAS CONF. EXTRATO CEF                                          20,30             89,68 D
+14/11/11 0001 180    0 14/11    PG. PARCELA REVISTA ISTO E C/EXTRATO CEF                                     61,50             28,18 D
+25/11/11 0001 178    0 25/11    PG. DESP.BANCARIA CONF.EXTRATO CEF                                           20,30              7,88 D
+07/12/11 0001 127    0 07/12    PG. TED P/C/C CAIXA E.FEDERAL C/EXTRATO                 1.500,00                            1.507,88 D
+07/12/11 0001 130    0 07/12    PG. DESP.BANCARIA CONF.EXTRATO CEF                                           44,00          1.463,88 D
+12/12/11 0001 132    0 12/12    PG. PARCELA REVISTA ISTO E CONF.EXTRATO CEF                                  61,50          1.402,38 D
+13/12/11 0001  88    0 13/12    VL. SAQUE P/DESPESAS CONF.CH.2367 CEF                                     1.200,00            202,38 D
+                                                                               ----------------- -----------------
+                              Totais .....................................:           148.570,25        149.056,92
+========================================================================================================================================

@@ -1,0 +1,41 @@
+.form-group
+    margin-inline: auto
+    display: flex
+    flex-direction: column
+    width: 100%
+    h1
+        font-size: 2.5rem
+
+.form
+    gap: 1rem
+    padding: 4rem
+    flex-direction: row
+    flex-wrap: wrap
+    margin-top: 1.5rem
+    padding: 2.5rem
+    border: 1px solid #095a2d
+    border-radius: 12px
+
+.form-cadastro
+    &>div
+        flex-basis: 48%
+    & div[data-name="nome"], & div[data-name="escola"],& div[data-name="email"],  & div[data-name="endereco"]
+        flex-basis: 100%
+    & div[data-name="senha"], & div[data-name="confiremsenha"]
+        flex-basis: 70%
+        margin-inline: auto
+    & div[data-name="assinatura"]
+        order: 10
+.login-h2
+    font-size: 2.5rem
+.form-login
+    flex-direction: row
+    &>div
+        flex-basis: 100%
+
+.breadcumb
+    display: flex
+    margin-bottom: 4rem
+    font-size: 14pt
+    font-family: glober
+    border: none

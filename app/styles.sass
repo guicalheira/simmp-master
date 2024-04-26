@@ -1,0 +1,484 @@
+@tailwind base
+@tailwind components
+@tailwind utilities
+
+*
+    scroll-behavior: smooth
+    scroll-margin-top: 6rem
+    
+body
+    -webkit-print-color-adjust: exact !important
+    print-color-adjust: exact !important
+    max-width: 100vw
+
+a[href="https://firecms.co?utm_source=drawer"]
+    display: none
+
+@font-face 
+    font-family: "glober"
+    src: url("/glober/Fontfabric - GloberRegular.otf") format("opentype")
+    
+@font-face 
+    font-family: "glober heavy"
+    src: url("/glober/Fontfabric - GloberHeavy.otf") format("opentype")
+@font-face 
+    font-family: "glober thin"
+    src: url("/glober/Fontfabric - GloberThin.otf") format("opentype")
+@font-face 
+    font-family: "glober light"
+    src: url("/glober/Fontfabric - GloberLight.otf") format("opentype")
+@font-face 
+    font-family: "glober black"
+    src: url("/glober/Fontfabric - GloberBlack.otf") format("opentype")
+@font-face 
+    font-family: "bau"
+    src: url("/Bau-Regular Regular.ttf") format("truetype")
+
+.wrapper
+    width: 55ch
+
+section
+    min-height: 60vh
+article
+    width: calc(100% - 2rem) !important
+    font-family: "glober"
+    margin-bottom: 7rem
+    color: #1d1d1d
+    margin-bottom: 3rem
+    h2
+        font-size: 3rem
+        margin-bottom: 1rem
+        font-family: "glober light"
+        color: #2d2d2d
+nav
+    border: #4CAF50 solid 1px
+    font-size: 16pt !important
+    font-family: glober
+    @media print
+        display: none
+
+#landing-logo, #printing-message
+    @media print
+        display: none
+
+#printing-message
+    font-size: 3rem
+    margin-bottom: 1rem
+    font-family: "glober light"
+    color: #2d2d2d
+    text-decoration: underline
+    text-decoration-color: #0d700ed6
+    text-decoration-style: dotted
+    text-decoration-thickness: 5px
+
+svg
+    use
+        fill: #0d700ed6
+        
+#website-nav
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2)
+
+#slot
+    &> article
+        max-width: 1200px !important
+        display: flex
+        flex-wrap: wrap
+        margin-inline: auto
+        padding-top: 2rem
+        flex-direction: column
+
+#pagina-institucional
+    width: 60ch
+    font-family: "glober light"
+    gap: 4rem
+    padding-top: 4rem !important
+    padding-bottom: 10rem !important
+    &>article
+        margin-bottom: 4rem
+        hyphens: auto
+        margin-inline: auto
+        gap: 2rem
+        display: flex
+        flex-direction: column
+        width: 80vw !important
+        max-width: 1200px
+
+        h2
+            margin-inline: auto
+            width: 100%
+        p
+            margin-bottom: 1rem
+            margin-inline: auto
+        div
+            gap: 1rem
+            p
+                line-height: 1.7rem
+                font-size: 1.3rem
+#landing
+    width: 100%
+    max-height: 100vh
+    display: grid
+    grid-auto-columns: 1fr
+    grid-auto-rows: 1fr
+    grid-template-columns: 60%  472px
+    grid-template-rows: 50px 1fr 1fr auto
+    margin-bottom: 5rem
+    gap: 25px
+    grid-template-areas:  "h1 h1" "destaque fme" "destaque galeria" "banners banners"
+    @media (max-width: 600px) 
+        grid-template-columns: 90vw
+        margin-inline: auto
+        justify-content: center
+        grid-template-rows: 1fr
+        grid-template-areas:    "h1    " "destaque" "galeria " "fme   " "banners"
+        padding-inline: 4vw
+        &>.destaque
+            min-height: 50vh
+            font-size: 100%
+            flex-direction: column
+        
+
+    
+    justify-content: space-between
+    & > *
+        height: 100%
+        width: 100%
+        object-fit: contain
+        object-position: center
+    #title
+        grid-area: h1
+        font-family: "glober light"
+        font-size: 2rem
+        &::before
+          border-bottom: 2px solid #121063  
+    .destaque 
+        grid-area: destaque
+        &:hover
+            transform: scale(1.01)
+        .destaque-body
+    .fme 
+        grid-area: fme
+        border: 2px solid #245b8a
+        outline: #9EB4C8 solid 2px
+        img
+            height: 100%
+            object-fit: cover
+    .galeria 
+        h2
+            color: white
+            text-align: center
+            padding: 1rem
+            font-size: 2rem
+        grid-area: galeria
+        background-color: #0e720f
+    .banners 
+        grid-area: banners
+// login forms
+.login-form-alt
+    cursor: pointer
+    color: #0e720f
+    &:hover
+        color: #1bdc1b
+
+nav
+    @media (max-width: 500px) 
+        justify-content: flex-end
+
+        &> div> a
+            top: 0.5rem
+    #instDropMenu
+        // transform: translate(353px, 56px) !important
+
+    
+.nav-list
+    & > li:nth-child(1)
+        margin-left: -0.5rem
+
+#sharing
+    max-width: 90vw
+    width: 15ch
+    justify-content: center
+    align-items: center
+    gap: 0px
+    h3
+        text-align: center
+    svg
+        width: 30px
+        aspect-ratio: 1
+
+.lead
+    hyphens: auto
+    font-family: "glober light"
+    width: 60vw
+    max-width: 100%
+    margin-inline: auto
+    font-size: 1.3rem !important
+    line-height: 2rem
+    word-spacing: 3px
+    margin-bottom: 7rem
+    
+.common-post
+    font-size: 1.2rem
+    font-family: "glober thin"
+    max-width: 80ch
+    margin-inline: auto
+    margin-top: 5vh
+    gap: 3rem
+    display: flex
+    flex-direction: column
+    img
+        margin-bottom: 3rem
+        margin-inline: auto
+        height: 100%
+        max-height: 85vh
+        background-size: contain
+    h1
+        hyphens: auto
+        margin-inline: auto
+        margin-top: 1rem
+        margin-bottom: 1rem
+        max-width: 60ch
+        font-family: "glober"
+        font-weight: 300
+        color: #2d2d2d
+        font-size: 3rem
+        line-height: 4rem
+
+@media print 
+    nav
+        display: none
+
+.texto-afiliar
+    h3
+        font-size: 1.5rem
+    h2
+        font-size: 2rem
+
+
+.galerias-item
+    background-size: cover
+    background-position: center
+    border-radius: 4px
+    display: flex
+    justify-content: flex-end
+    h3
+        height: 30%
+        align-self: end
+        padding-inline: 2rem
+        background-color: #ffffff61
+        padding-top: 1rem
+        color: #2d2d2d
+        font-family: glober
+#carteirinha-wrapper
+    display: flex
+    flex-direction: column
+
+.carteirinha
+    display: grid
+    gap: 0.1rem
+    padding-top: 0.3rem
+    height: 54mm
+    width: 86mm
+    font-size: 80%
+    font-family: "glober "
+    color: rgba(45, 45, 45, 0.1764705882)
+    padding-inline: 0.5rem
+    small
+        font-family: "glober    "
+        font-weight: bold
+        color: #2d2d2d
+        font-size: 78%
+        position: absolute
+        margin-top: -0.6rem
+    &> *
+        font-family: "glober"
+        color: black
+    &> div
+        justify-content: center
+        align-items: end
+        display: flex
+        height: 77%
+
+
+
+#carteirinha-impressao
+    
+
+.frente
+    // grid-template-areas: 
+    background-image: url(/carteirinha-frente.svg)
+    grid-auto-columns: 1fr
+    grid-template-columns: 33mm 0.7fr 0.8fr 1.2fr
+    grid-template-rows: 10mm 10mm 7mm 8mm 8mm 7mm
+    grid-template-areas: "logo logo logo foto" "logo logo logo foto" "nome nome nome foto" "cargo cargo cargo insc" "cpf cpf rg rg" "nascimento matricula matricula emissao"
+    .logo 
+        grid-area: logo
+        background-color: transparent
+        height: 100%
+    .nome 
+        grid-area: nome
+        margin-top: 1mm
+    .foto 
+        grid-area: foto
+        -o-object-fit: cover
+        object-fit: cover
+        width: 95%
+        height: 97%  
+        -o-object-position: center
+        object-position: center
+        justify-self: right
+        margin-right: 0.5mm
+        border-radius: 6px
+    .cargo 
+        margin-top: 1mm
+        grid-area: cargo
+    .insc 
+        grid-area: insc
+        width: 90%
+        justify-self: end
+        margin-top: 1mm
+        margin-right: 5%
+    .cpf 
+        grid-area: cpf
+        width: 90%
+    .rg 
+        grid-area: rg
+        margin-left: -5mm
+    .matricula 
+        grid-area: matricula
+        margin-left: -5mm
+        width: 92%
+    .nascimento 
+        grid-area: nascimento
+        width: 80%
+    .emissao 
+        grid-area: emissao
+.atras
+    background-image: url(/carteirinha-tras.svg)
+    display: grid
+    padding-top:0.4rem
+    gap: 0px
+    grid-template-areas: "filiacao   filiacao" "naturalidade uf    " "endereco   endereco" "bairro     bairro  " "cep      cep  " "cidade     cidade  " "validade validade" "lote lote"
+    grid-template-rows: 9mm 4.1mm 4mm 3mm 4mm 4mm 4mm 3mm
+    font-size: 9px
+    & > *
+        height: 100% !important
+        justify-content: start !important
+        padding-left: 16mm
+    .naturalidade
+        grid-area: naturalidade
+    .uf
+        grid-area: uf
+        padding-left: 27mm
+    .filiacao
+        align-items: start
+        padding-top: 2mm
+        grid-area: filiacao
+    
+    .endereco
+        grid-area: endereco
+
+    .bairro
+        grid-area: bairro
+
+    .cep
+        grid-area: cep
+
+    .cidade
+        grid-area: cidade
+
+    .lote
+        grid-area: lote
+
+    .assinatura-wrapper
+        height: 2rem
+        display: flex
+        align-items: end
+        grid-area: assinatura-wrapper
+        margin-top: .1rem
+        border-radius: 3px
+        &> div
+            height: 100%
+            width: 97%
+            padding-top: 0.7rem
+            text-align: center
+            &>div
+                height: 1px
+                background-color: black
+                margin-bottom: -4px
+            &>small
+                position: relative
+                margin-top: 0px
+
+.posts
+    gap: 3rem
+    justify-content: center
+    margin-inline: auto
+
+#noticias
+    margin-top: 4rem
+    max-width: 100vw
+    h2
+        font-size: 14pt
+        font-family: "glober"
+        font-weight: 100
+    &>h2
+        font-size: 2rem
+        font-family: "glober light"
+        color: #2d2d2d
+
+.gallery-item 
+    opacity: 0
+    transition: opacity 250ms
+
+.gallery-item[data-carousel-item="active"]
+    opacity: 1
+    transition: opacity 250ms
+
+
+.post-card
+    height: 400px
+    width: 60%
+    object-fit: contain
+    object-position: center
+    margin-inline: auto
+
+#login_layout
+    gap: 2rem
+
+#afiliados
+    .posts
+        display: flex
+        gap: 3rem
+        flex-direction: column
+
+footer
+    @media print 
+        display: none
+    background-color: #0e720f
+    width: 100%
+    gap: 2rem
+    padding: 2rem
+    padding-top: 3rem
+    color: white
+    margin-top: 4rem
+    .leaflet-container
+        width: 450px
+        max-width: 90vw
+        height: 200px
+        margin-inline: auto
+    .row
+        display: grid
+        height: 135px
+        position: relative
+        grid-template-columns: auto 18%
+
+
+// CMS related adicional tweaks
+
+#form_publicacao
+    width: 100vw
+.css-1rrgmro
+    width: 100vw
+.css-b1dpm3
+    position: absolute !important
